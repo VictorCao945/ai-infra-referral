@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Infra 内推岗位 | Referral Board</title>
+    <meta name="description" content="AI Infrastructure referral board with China mainland, Hong Kong, Taiwan, and overseas roles. Open roles for personal referrals." />
+    <meta property="og:title" content="AI Infra 内推岗位 | Referral Board" />
+    <meta property="og:description" content="中国大陆、中国香港、中国台湾与海外 AI Infrastructure 岗位内推，可按岗位、城市和职能筛选。" />
+    <meta property="og:type" content="website" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Noto+Sans+SC:wght@400;500;700;900&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css?v=20260528-title3" />
+  </head>
+  <body>
+    <canvas id="signalCanvas" aria-hidden="true"></canvas>
+
+    <div class="shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="AI Infra referral home">
+          <span class="brand-mark">AI</span>
+        </a>
+        <nav class="nav-actions" aria-label="Page actions">
+          <button class="icon-btn active" type="button" data-lang="zh">中</button>
+          <button class="icon-btn" type="button" data-lang="en">EN</button>
+          <a class="ghost-btn" data-i18n="linkedinCta" href="https://www.linkedin.com/company/gmi-cloud-ai/" target="_blank" rel="noreferrer">公司动态</a>
+          <a class="ghost-btn email-link" data-i18n="contactCta" data-contact-link href="#">联系内推</a>
+        </nav>
+      </header>
+
+      <main id="top">
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow" data-i18n="eyebrow">内推通道 · GPU Cloud / AI Infra</p>
+            <h1 data-i18n="headline">AI Infra 内推</h1>
+            <p class="lead" data-i18n="lead">AI 基础设施岗位开放中。按区域和职能找到目标岗位后，直接邮件发送简历。</p>
+          </div>
+          <div class="hero-metrics" aria-label="Hiring summary">
+            <div>
+              <strong id="totalJobs">47</strong>
+              <span data-i18n="metricJobs">岗位总数</span>
+            </div>
+            <div>
+              <strong>AI</strong>
+              <span data-i18n="metricTrack">Infra 赛道</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="control-band" aria-label="Job filters">
+          <div class="search-wrap">
+            <span class="search-glyph">⌕</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="搜索岗位、城市、关键词" />
+          </div>
+          <div class="filters" id="regionFilters" aria-label="Region filters"></div>
+          <div class="filters" id="functionFilters" aria-label="Function filters"></div>
+        </section>
+
+        <section class="board">
+          <div class="board-head">
+            <div>
+              <p class="eyebrow" data-i18n="boardEyebrow">Open Roles</p>
+              <h2 data-i18n="boardTitle">正在内推的岗位</h2>
+            </div>
+            <p id="resultCount"></p>
+          </div>
+          <div class="job-grid" id="jobGrid"></div>
+        </section>
+
+        <section class="referral-cta">
+          <div>
+            <p class="eyebrow" data-i18n="ctaEyebrow">Referral Signal</p>
+            <h2 data-i18n="ctaTitle">已有目标岗位？</h2>
+            <p data-i18n="ctaCopy">打开对应岗位详情，点击“邮件投递”即可带上岗位标题发送简历。请在邮件正文附上目标岗位、所在城市、可入职时间和简历。</p>
+            <a class="inline-email" data-i18n="contactCta" data-contact-link href="#">联系内推</a>
+          </div>
+          <div class="cta-actions">
+            <a class="primary-btn large" id="emailPitchBottom" href="#">发邮件咨询</a>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <aside class="drawer" id="jobDrawer" aria-hidden="true">
+      <div class="drawer-panel" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+        <button class="close-btn" type="button" id="closeDrawer" aria-label="Close">×</button>
+        <p class="drawer-source" id="drawerSource"></p>
+        <h2 id="drawerTitle"></h2>
+        <div class="drawer-meta" id="drawerMeta"></div>
+        <div class="drawer-actions">
+          <a class="primary-btn" id="emailThisRole" href="#">邮件投递</a>
+          <a class="ghost-btn" id="applyLink" href="#" target="_blank" rel="noreferrer">LinkedIn</a>
+        </div>
+        <article class="jd-body" id="drawerBody"></article>
+      </div>
+    </aside>
+
+    <script src="./jobs-data.js"></script>
+    <script src="./china-jobs.js"></script>
+    <script src="./latest-linkedin-jobs.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

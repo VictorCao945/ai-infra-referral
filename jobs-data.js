@@ -1,0 +1,890 @@
+window.REFERRAL_JOBS = {
+  "generatedAt": "2026-05-28T06:12:34.926Z",
+  "notes": {
+    "zh": "海外岗位来自 LinkedIn 抓取数据；中国区岗位在 china-jobs.js 中维护。",
+    "en": "Overseas roles come from LinkedIn scraped data. China roles are maintained in china-jobs.js."
+  },
+  "jobs": [
+    {
+      "id": "4393502947",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Recruiter",
+      "titleZh": "高级招聘专员",
+      "company": "GMI Cloud",
+      "location": "Taipei, Taipei City, Taiwan",
+      "locationZh": "台北市, 台北市, 台湾",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/senior-recruiter-at-gmi-cloud-4393502947?position=1&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=L4RErJ7AarFA450xq5WxTw%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nThe Role\n\nWe are seeking a Senior Recruiter to join our team in Taipei office. This is a high-visibility, hybrid role for a talent acquisition powerhouse who excels in a \"startup-energy\" environment.\n\nThis is not a coordination-heavy role; it is a high-execution, \"hands-on\" position. You will be the sole driver of our US talent pipeline, requiring a candidate who can operate with extreme autonomy to deliver end-to-end results. Additionally, as a bridge between our US operations and global leadership, professional fluency in both English and Mandarin is required.\n\nKey Responsibilities\n\n- High-Autonomy End-to-End Recruitment: Take full, independent ownership of the hiring lifecycle—from initial intake and aggressive sourcing to high-stakes offer negotiation and closing.\n- Market Mapping & Headhunting: Proactively map the competitive landscape in GPU Cloud and AI Infra. You are expected to \"hunt\" top-tier passive talent from industry peers rather than relying on inbound applicants.\n- External Resource Mastery: Identify, vet, and manage US-based specialized headhunter agencies to amplify our reach for niche technical and sales roles.\n- Strategic Advisory: Serve as a talent consultant to leadership, providing real-time market intelligence on compensation, competitor movement, and talent availability in Silicon Valley.\n- Bilingual Communication: Act as the primary talent liaison, effectively communicating and collaborating with stakeholders in both English and Mandarin to ensure global alignment on hiring bars and culture fit.\n- ATS Architect: Partner with HR Operations to select, implement, and lead the setup of our ATS (e.g., Greenhouse, Ashby). You will define the workflows, interview kits, and data standards from scratch.\n\nQualifications\n\n- Experience: 5+ years of full-cycle recruiting experience in high-growth tech (AI, Cloud).\n- Independent Delivery: Proven track record of independent delivery in a fast-paced environment. You must demonstrate the ability to fill complex technical and GTM roles under tight deadlines with minimal supervision.\n- Language: Professional fluency in English and Mandarin is mandatory.\n- Technical Savvy: Deep experience hiring for Technical \\Sales&Marketing\\ and SA etc roles.\n- Systems Implementation: Practical experience setting up or optimizing an ATS and building scalable recruitment processes from 0 to 1.\n- Sourcing Prowess: Expert-level sourcing skills (Boolean, Github, specialized communities) and a hunter mindset.\n\nPreferred Qualifications\n\n- A background that combines agency headhunting with in-house startup scaling.\n- Deep roots in the Silicon Valley/Bay Area tech ecosystem.\n- Experience in the GPU, Data Center, or AI Infrastructure sector.",
+      "jdZh": "关于GMI云\n\nGMI Cloud 是一家快速发展的人工智能基础设施公司，由 Headline VC 支持，也是全球仅有的六家获得 NVIDIA 享有盛誉的参考平台云合作伙伴称号的云提供商之一。\n\n我们在美国和亚洲运营着 8 个自己的 GPU 集群，提供从 GPU 计算服务到 AI 模型推理 API 解决方案的全方位服务。作为 NVIDIA 参考平台云合作伙伴，我们的基础设施满足 AI 部署中性能、安全性和可扩展性的最高标准。我们帮助人工智能初创公司和企业“无限制地构建人工智能”，为他们提供快速可靠的原型设计、训练和部署人工智能模型所需的一切。\n\n角色\n\n我们正在寻找一名高级招聘人员加入我们台北办事处的团队。对于在“初创能源”环境中表现出色的人才招聘巨头来说，这是一个引人注目的混合角色。\n\n这不是一个需要大量协调的角色；这是一个执行力强、“亲力亲为”的职位。您将成为我们美国人才管道的唯一驱动力，需要一位能够以极大的自主权运作的候选人来提供端到端的结果。此外，作为我们美国业务和全球领导层之间的桥梁，需要流利的专业英语和普通话。\n\n主要职责\n\n- 高度自主的端到端招聘：对招聘生命周期拥有完全、独立的所有权——从最初的招聘和积极的采购到高风险的报价谈判和结束。\n- 市场测绘和猎头：主动绘制 GPU 云和人工智能基础设施的竞争格局。您应该从行业同行中“猎取”顶级被动人才，而不是依赖入境申请人。\n- 外部资源掌握：识别、审查和管理美国的专业猎头机构，以扩大我们对利基技术和销售角色的影响力。\n- 战略咨询：作为领导层的人才顾问，提供有关硅谷薪酬、竞争对手动向和人才可用性的实时市场情报。\n- 双语沟通：作为主要的人才联络人，用英语和普通话与利益相关者进行有效的沟通和合作，以确保招聘标准和文化契合度方面的全球一致性。- ATS 架构师：与人力资源运营部门合作，选择、实施和领导 ATS 的设置（例如 Greenhouse、Ashby）。您将从头开始定义工作流程、访谈工具包和数据标准。\n\n资格\n\n- 经验：5年以上高增长技术（人工智能、云）全周期招聘经验。\n- 独立交付：在快节奏的环境中独立交付的良好记录。您必须证明有能力在紧迫的期限内以最少的监督来填补复杂的技术和 GTM 职位。\n- 语言：必须具备专业流利的英语和普通话。\n- 精通技术：在招聘技术\\销售和营销\\以及SA等职位方面拥有丰富的经验。\n- 系统实施：设置或优化 ATS 以及构建从 0 到 1 的可扩展招聘流程的实践经验。\n- 采购能力：专家级采购技能（布尔、Github、专业社区）和猎人心态。\n\n优先资格\n\n- 将机构猎头与内部初创企业规模化相结合的背景。\n- 深深植根于硅谷/湾区科技生态系统。\n- GPU、数据中心或人工智能基础设施领域的经验。",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Human Resources",
+        "Industries": "Software Development, Technology, Information and Media, and IT System Data Services"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "人力资源",
+        "行业": "软件开发、技术、信息与媒体、IT系统数据服务"
+      }
+    },
+    {
+      "id": "4393517018",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Solutions Architect",
+      "titleZh": "解决方案架构师",
+      "company": "GMI Cloud",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "locationZh": "内湖区, 台北市, 台湾",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/solutions-architect-at-gmi-cloud-4393517018?position=2&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=N2DbgOIfXE4P2akY9ZmNxw%3D%3D",
+      "jdEn": "Overview\n\nWe are seeking a highly skilled Solution Architect with strong expertise in GPU-based cloud infrastructure, capable of bridging technical architecture and business strategy. This role will design scalable GPU cloud solutions, work closely with customers and partners, and translate complex requirements into actionable architectures and business value.\n\nKey Responsibilities\n\n1. Technical Architecture\n\n- Design and architect GPU cloud platforms (including H100/H200/B200/L40S, GB200/GB300 clusters, multi-rack setup).\n\n- Plan and optimize infrastructure topology, including network, storage, security, GPU scheduling, and virtualization/containerization (Kubernetes, Slurm, etc.).\n\n- Evaluate hardware options and set clear performance benchmarks/TCO/performance per watt.\n\n- Define best practices for MLOps / LLM training / inference stacks.\n\n- Provide reference architectures and solution playbooks for different customer use cases.\n\n2. Pre-Sales & Business Enablement\n\n-Work with customers to understand business needs and translate them into technical solutions.\n\n- Prepare solution proposals, cost estimates, TCO analysis, and ROI models.\n\n- Present technical solutions to executives, VPs, CTOs, or procurement teams.\n\n- Support proof-of-concepts (POC), demo environments, and customer onboarding.\n\n- Communicate competitive advantages and differentiate services against AWS / Azure / other GPU providers.\n\n3. Cross-Team Collaboration\n\n- Work with product, engineering, and operations teams to ensure solution feasibility.\n\n- Provide feedback for roadmap planning and service offerings.\n\n- Collaborate with data center teams on capacity planning, expansion strategy, and reliability.\n\n- Document solution standards, guidelines, and operational run-books.\n\n4. Customer Success & Long-Term Strategy\n\n- Act as a trusted technical advisor for key enterprise customers.\n\n- Propose scaling strategies, cost optimization, and continuous performance improvements.\n\n- Gather customer requirements to influence product direction & pricing strategy.\n\n- Build long-term architecture visions and solution frameworks for AI workloads.\n\nQualifications Required\n\n- Bachelor's/Master's in Computer Science, Engineering, or related field.\n\n- 5+ years experience in cloud architecture / infrastructure / solution engineering.\n\n- Strong understanding of GPU workloads, parallel computing, AI/ML pipelines, and LLM training/inference.\n\n- Hands-on knowledge of:\n\no Kubernetes / Docker / Slurm / Ray\n\no Linux, HPC, networking fundamentals\n\no GPU resource management & scheduling\n\n- Experience in customer-facing technical roles (pre-sale, consulting, PoC, enterprise projects).\n\n- Proven ability to explain complex ideas to business stakeholders and non-technical audiences.\n\nPreferred\n\n- Experience with data center operations or multi-rack GPU deployment.\n\n- Familiar with cloud economics / TCO analysis / business modeling.\n\n- Strong presentation skills & ability to write proposals.\n\n- Understanding of security/compliance standards (ISO27001, SOC2, etc.).\n\n- Multi-language ability (English / Chinese / Japanese) is a plus.\n\nSoft Skills\n\n- Solution-oriented and business-driven mindset.\n\n- Strong communication and client engagement skills.\n\n- Able to work independently under pressure.\n\n- Strategic thinker with hands-on execution ability.\n\n- Team player across departments (Product, Ops, Engineering, Sales).",
+      "jdZh": "概述\n\n我们正在寻找一位技术精湛的解决方案架构师，他在基于 GPU 的云基础设施方面拥有丰富的专业知识，能够桥接技术架构和业务战略。该角色将设计可扩展的 GPU 云解决方案，与客户和合作伙伴密切合作，并将复杂的需求转化为可操作的架构和业务价值。\n\n主要职责\n\n1. 技术架构\n\n- 设计和架构GPU云平台（包括H100/H200/B200/L40S、GB200/GB300集群、多机架设置）。\n\n- 规划和优化基础设施拓扑，包括网络、存储、安全、GPU 调度和虚拟化/容器化（Kubernetes、Slurm 等）。\n\n- 评估硬件选项并设定明确的性能基准/TCO/每瓦性能。\n\n- 定义 MLOps/LLM 训练/推理堆栈的最佳实践。\n\n- 为不同的客户用例提供参考架构和解决方案手册。\n\n2. 售前和业务支持\n\n-与客户合作，了解业务需求并将其转化为技术解决方案。\n\n- 准备解决方案提案、成本估算、TCO 分析和 ROI 模型。\n\n- 向高管、副总裁、首席技术官或采购团队提供技术解决方案。\n\n- 支持概念验证 (POC)、演示环境和​​客户入门。\n\n- 传达竞争优势并区分 AWS/Azure/其他 GPU 提供商的服务。\n\n3. 跨团队协作\n\n- 与产品、工程和运营团队合作，确保解决方案的可行性。\n\n- 提供路线图规划和服务产品的反馈。\n\n- 与数据中心团队就容量规划、扩展策略和可靠性进行协作。\n\n- 记录解决方案标准、指南和操作手册。\n\n4. 客户成功与长期战略\n\n- 担任关键企业客户值得信赖的技术顾问。\n\n- 提出扩展策略、成本优化和持续性能改进。\n\n- 收集客户需求以影响产品方向和定价策略。\n\n- 为人工智能工作负载构建长期架构愿景和解决方案框架。\n\n所需资格\n\n- 计算机科学、工程或相关领域的学士/硕士学位。\n\n- 5年以上云架构/基础设施/解决方案工程经验。\n\n- 对 GPU 工作负载、并行计算、AI/ML 管道和 LLM 训练/推理有深入的了解。\n\n- 实践知识：\n\no Kubernetes / Docker / Slurm / Ray\n\no Linux、HPC、网络基础知识\n\no GPU资源管理和调度\n\n- 具有面向客户的技术角色（售前、咨询、PoC、企业项目）经验。\n\n- 具有向业务利益相关者和非技术受众解释复杂想法的能力。\n\n首选\n\n- 具有数据中心运营或多机架 GPU 部署经验。\n\n- 熟悉云经济学/TCO分析/业务建模。\n\n- 较强的演讲技巧和撰写提案的能力。\n\n- 了解安全/合规标准（ISO27001、SOC2 等）。\n\n- 多语言能力（英语/中文/日语）优先。\n\n软技能\n\n- 以解决方案为导向和业务驱动的思维方式。\n\n- 强大的沟通和客户参与能力。\n\n- 能够在压力下独立工作。\n\n- 具有实际执行能力的战略思考者。\n\n- 跨部门（产品、运营、工程、销售）的团队合作者。",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Information Technology and Engineering",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "信息技术与工程",
+        "行业": "IT系统数据服务"
+      }
+    },
+    {
+      "id": "4390664776",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Site Reliability Engineer",
+      "titleZh": "站点可靠性工程师",
+      "company": "GMI Cloud",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "locationZh": "内湖区, 台北市, 台湾",
+      "postedDate": "2026-03-26",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/site-reliability-engineer-at-gmi-cloud-4390664776?position=3&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=OHv1p%2FOi7sv%2BdW7qvxav%2Bw%3D%3D",
+      "jdEn": "About GMI\n\nWe are a fast-growing AI infrastructure startup based in Silicon Valley, working on cutting-edge technologies that power the future of artificial intelligence.We power developers, startups, and enterprises with scalable GPU cloud and inference solutions, helping AI builders turn ideas into reality. As we expand globally, we are looking for a dynamic and hands-on Site Reliability Engineer\n\nRole Overview\n\nWe are seeking a skilled Site Reliability Engineer to join the GMI Global Infrastructure team. This role is hands-on and critical to ensuring the stability, efficiency, and reliability of the large-scale high performance AI/ML clusters in our data center. The ideal candidate will bring expertise in system-level troubleshooting, AI cluster maintenance, and operational excellence to ensure maximum performance for our infrastructure. Experience with large-scale infrastructure automation is considered a strong plus.\n\nPreferred Location: Taiwan\n\nResponsibilities\n\n- Design, implement and maintain scalable AI/ML infrastructure solutions.\n- Proactively monitor GPU cluster health, performance and troubleshoot issues across compute, accelerator, and storage systems.\n- Automate deployment, configuration and management of infrastructure resources.\n- Manage GPU node lifecycle workflows, including provisioning, scaling, maintenance, decommissioning and upgrades of GPU nodes.\n- Implement CI/CD pipelines for infrastructure deployment and orchestration.\n- Ensure security, compliance and best practices across infrastructure.\n- Manage incident response related to Infrastructure resources (GPU, CPU, Storage, Network).\n- Handle customer provisioning requests for GPU resources, including onboarding, configuration and troubleshooting; resolve customer service requests related to GPU infrastructure, ensuring high customer satisfaction.\n- Stay current with emerging GPU hardware and software technologies, integrating improvements as appropriate.\n- Regional/international travel to GMI data center locations.\n\nQualifications\n\n- Bachelor's degree in Computer Science or related field.\n- Over 3+ years of experience in data center operations, infrastructure, or systems engineering.\n- Proven experience in site reliability engineering and infrastructure automation (e.g. Ansible, Terraform)\n- Familiarity with containers orchestration platform (e.g. Kubernetes, Nvidia GPU operator, Nvidia Network operator, CNI, CSI) and job scheduling systems (e.g. Slurm).\n- Familiarity with Linux system administration and scripting (Python, Bash).\n- Familiarity with logging and monitoring tools such as Prometheus, Grafana, Loki.\n- Good knowledge of GPU architecture, Nvidia CUDA, NCCL, or related AI/ML frameworks - added advantage.\n- Strong troubleshooting skills and ability to analyze system logs and performance metrics.\n- Excellent communication and teamwork abilities.\n\nMeeting every qualification is not required—if you're excited about this role, we'd love to hear from you. We believe diverse perspectives and experiences strengthen our team.",
+      "jdZh": "关于GMI\n\n我们是一家总部位于硅谷的快速发展的人工智能基础设施初创公司，致力于研究为人工智能未来提供动力的尖端技术。我们为开发人员、初创公司和企业提供可扩展的 GPU 云和推理解决方案，帮助人工智能构建者将想法变为现实。随着我们在全球范围内的扩张，我们正在寻找一位充满活力、实践能力强的现场可靠性工程师\n\n角色概述\n\n我们正在寻找一名熟练的站点可靠性工程师加入 GMI 全球基础设施团队。这一角色对于确保我们数据中心大规模高性能 AI/ML 集群的稳定性、效率和可靠性至关重要。理想的候选人将带来系统级故障排除、人工智能集群维护和卓越运营方面的专业知识，以确保我们的基础设施发挥最大性能。具有大规模基础设施自动化经验被认为是一个强项。\n\n首选地点: 台湾\n\n职责\n\n- 设计、实施和维护可扩展的人工智能/机器学习基础设施解决方案。\n- 主动监控 GPU 集群运行状况、性能并解决计算、加速器和存储系统中的问题。\n- 自动化基础设施资源的部署、配置和管理。\n- 管理 GPU 节点生命周期工作流程，包括 GPU 节点的配置、扩展、维护、退役和升级。\n- 实施 CI/CD 管道以进行基础设施部署和编排。\n- 确保整个基础设施的安全性、合规性和最佳实践。\n- 管理与基础设施资源（GPU、CPU、存储、网络）相关的事件响应。\n- 处理客户对 GPU 资源的配置请求，包括载入、配置和故障排除；解决与 GPU 基础设施相关的客户服务请求，确保高客户满意度。\n- 紧跟新兴 GPU 硬件和软件技术，并酌情集成改进。- 前往 GMI 数据中心地点的区域/国际旅行。\n\n资格\n\n- 计算机科学或相关领域的学士学位。\n- 在数据中心运营、基础设施或系统工程方面拥有 3 年以上经验。\n- 在站点可靠性工程和基础设施自动化（例如 Ansible、Terraform）方面拥有丰富的经验\n- 熟悉容器编排平台（例如 Kubernetes、Nvidia GPU Operator、Nvidia Network Operator、CNI、CSI）和作业调度系统（例如 Slurm）。\n- 熟悉 Linux 系统管理和脚本编写（Python、Bash）。\n- 熟悉Prometheus、Grafana、Loki等日志记录和监控工具。\n- 熟悉 GPU 架构、Nvidia CUDA、NCCL 或相关 AI/ML 框架 - 额外优势。\n- 强大的故障排除技能以及分析系统日志和性能指标的能力。\n- 优秀的沟通和团队合作能力。\n\n不需要满足所有资格 - 如果您对这个职位感到兴奋，我们很乐意听取您的意见。我们相信多元化的观点和经验可以增强我们的团队。",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT Services and IT Consulting, IT System Installation and Disposal, and IT System Testing and Evaluation"
+      },
+      "criteriaZh": {
+        "工龄级别": "联系",
+        "就业类型": "全日制",
+        "工作职能": "工程",
+        "行业": "IT服务与IT咨询、IT系统安装与处置、IT系统测试与评估"
+      }
+    },
+    {
+      "id": "4387244302",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Account Manager – AI Startups & Research Labs",
+      "titleZh": "客户经理 – 人工智能初创公司和研究实验室",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "加利福尼亚州山景城",
+      "postedDate": "2026-03-18",
+      "postedRelative": "4 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/account-manager-%E2%80%93-ai-startups-research-labs-at-gmi-cloud-4387244302?position=4&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=j%2B16ma2L9a31Sk3DuCZglg%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments.\n\nRole Overview\n\nWe're looking for a quota-carrying Account Manager to work directly with AI startup founders, researchers, and ML engineers.\n\nThis role is ideal for someone who:\n\n- Is AI-native (understands model training & inference),\n- Is comfortable building pipeline through their own network, and\n- Thrives in an early-stage environment without heavy inbound or brand pull.\n\nYou'll own accounts end-to-end — from sourcing opportunities to closing deals and driving expansion.\n\nWhat You'll Do\n\nPipeline & Revenue Ownership\n\n- Own a revenue quota across a portfolio of AI startup and research lab accounts.\n- Build pipeline through outbound efforts and personal network, especially within the founder and VC ecosystem.\n- Convert early experiments and trials into paid usage and long-term customers.\n\nFounder & Researcher Engagement\n\n- Work directly with AI startup founders, Heads of ML, researchers, and early infra engineers.\n- Understand customer workloads (training vs. inference), growth plans, and constraints (budget, speed, scale).\n- Act as a trusted partner, not a transactional seller.\n\nAI & GPU Cloud Sales\n\n- Confidently discuss model training, inference, GPU scaling, and performance trade-offs.\n- Position GMI Cloud's GPU infrastructure as a solution to real AI scaling problems.\n- Partner closely with Solution Architects to support trials, PoCs, and onboarding.\n\nAccount Growth\n\n- Drive expansion through increased usage, larger clusters, and longer commitments.\n- Maintain close relationships with customers as they grow from early-stage to production.\n- Feed market and customer insights back to the team.\n\nWhat We're Looking For\n\nExperience\n\n- 3–6 years of experience in account management, sales, or business development in AI, cloud, or infrastructure.\n- Experience selling to technical customers (founders, engineers, researchers).\n- Prior exposure to AI startups, research labs, or developer-first products is strongly preferred.\n\nAI & Technical Fluency\n\n- Familiar with AI/ML workflows, including model training and inference.\n- Comfortable discussing GPUs, scaling, performance, and basic AI infrastructure concepts.\n- You don't need to write models — but you need to understand how they run.\n\nEcosystem & Network\n\n- Existing relationships or strong familiarity with the Bay Area AI startup and VC ecosystem.\n- Comfortable attending meetups, demo days, research events, and building relationships from scratch.\n\nMindset\n\n- Self-starter who can operate without heavy inbound or brand-driven demand.\n- Curious, energetic, and comfortable with ambiguity.\n- Motivated by ownership, growth, and impact — not just process.\n\nSuccess Metrics\n\n- Revenue attainment against quota.\n- Pipeline built through outbound and ecosystem-driven efforts.\n- Conversion from trials to paid usage.\n- Account expansion and retention.\n\nWhy Join GMI Cloud\n\n- Sell a product that AI teams genuinely need — GPU compute at scale.\n- Work directly with founders and researchers building next-generation models.\n- High ownership, high visibility, and real impact in a growing AI infrastructure company.\n- Competitive 50/50 OTE structure with meaningful upside.",
+      "jdZh": "关于GMI云\n\nGMI Cloud 是一家快速发展的人工智能基础设施公司，由 Headline VC 支持，也是全球仅有的六家获得 NVIDIA 享有盛誉的参考平台云合作伙伴称号的云提供商之一。\n\n我们在美国和亚洲运营着 8 个自己的 GPU 集群，提供从 GPU 计算服务到 AI 模型推理 API 解决方案的全方位服务。作为 NVIDIA 参考平台云合作伙伴，我们的基础设施满足 AI 部署中性能、安全性和可扩展性的最高标准。\n\n角色概述\n\n我们正在寻找一名有配额的客户经理，以便直接与人工智能初创公司创始人、研究人员和机器学习工程师合作。\n\n这个角色非常适合以下人员：\n\n- 是人工智能原生的（理解模型训练和推理），\n- 能够轻松地通过自己的网络构建管道，并且\n- 在没有大量入站或品牌拉动的早期环境中蓬勃发展。\n\n您将拥有端到端的客户——从寻找机会到完成交易和推动扩张。\n\n你会做什么\n\n管道和收入所有权\n\n- 拥有人工智能初创公司和研究实验室账户组合的收入配额。\n- 通过对外努力和个人网络建立渠道，特别是在创始人和风险投资生态系统内。\n- 将早期实验和试用转化为付费使用和长期客户。\n\n创始人和研究人员参与\n\n- 直接与人工智能初创公司创始人、机器学习负责人、研究人员和早期基础设施工程师合作。\n- 了解客户工作负载（训练与推理）、增长计划和约束（预算、速度、规模）。\n- 作为值得信赖的合作伙伴，而不是交易卖家。\n\nAI 和 GPU 云销售\n\n- 自信地讨论模型训练、推理、GPU 扩展和性能权衡。\n- 将 GMI Cloud 的 GPU 基础设施定位为真正的 AI 扩展问题的解决方案。\n- 与解决方案架构师密切合作，支持试验、PoC 和入职培训。\n\n账户增长\n\n- 通过增加使用量、更大的集群和更长的承诺来推动扩展。\n- 在客户从早期阶段发展到生产阶段时与客户保持密切的关系。\n- 将市场和客户洞察反馈给团队。\n\n我们在寻找什么\n\n经验\n\n- 拥有 3-6 年人工智能、云或基础设施方面的客户管理、销售或业务开发经验。\n- 拥有向技术客户（创始人、工程师、研究人员）销售的经验。\n- 优先接触过人工智能初创公司、研究实验室或开发人员优先的产品。\n\n人工智能和技术流畅性\n\n- 熟悉AI/ML工作流程，包括模型训练和推理。\n- 轻松讨论 GPU、扩展、性能和基本 AI 基础设施概念。\n- 您不需要编写模型 - 但您需要了解它们如何运行。\n\n生态系统与网络\n\n- 对湾区人工智能初创公司和风险投资生态系统的现有关系或非常熟悉。\n- 轻松参加聚会、演示日、研究活动以及从头开始建立关系。\n\n心态\n\n- 自我启动者，无需大量入站或品牌驱动需求即可运营。\n- 好奇、精力充沛、能坦然接受歧义。\n- 受所有权、成长和影响的激励——而不仅仅是流程。\n\n成功指标\n\n- 配额收入实现情况。\n- 通过对外和生态系统驱动的努力建立的管道。\n- 从试用转换为付费使用。\n- 帐户扩展和保留。\n\n为什么加入GMI云\n\n- 销售人工智能团队真正需要的产品——大规模 GPU 计算。\n- 直接与创始人和研究人员合作构建下一代模型。\n- 在不断发展的人工智能基础设施公司中拥有高所有权、高知名度和实际影响力。\n- 具有竞争力的 50/50 OTE 结构，具有有意义的优势。",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Sales",
+        "Industries": "IT System Installation and Disposal, Technology, Information and Media, and Software Development"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "销售量",
+        "行业": "IT系统安装与处置、技术、信息与媒体、软件开发"
+      }
+    },
+    {
+      "id": "4399241967",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Corporate Development Manager",
+      "titleZh": "企业发展经理",
+      "company": "GMI Cloud",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "locationZh": "内湖区, 台北市, 台湾",
+      "postedDate": "2026-04-08",
+      "postedRelative": "6 days ago",
+      "url": "https://tw.linkedin.com/jobs/view/corporate-development-manager-at-gmi-cloud-4399241967?position=5&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=9j9pWHAUJXdHChqSQr5qeA%3D%3D",
+      "jdEn": "Role Overview\n\nAs a Corporate Development Manager, you will play a key role in driving the company's growth strategy through commercial projects, strategic partnerships, investments, potential M&A opportunities and capital raising. You will work closely with the CFO and senior leadership team on high-impact initiatives across markets.\n\nKey Responsibilities\n\n- Evaluate commercial projects, strategic partnerships, investment, and M&A opportunities\n- Collaborate cross-functionally with product, finance, and operations teams\n- Lead end-to-end deal execution, including sourcing, financial modeling, due diligence, and negotiation\n- Support fundraising activities, investor relations, and board materials preparation\n- Develop business cases and strategic analyses to support key decisions\n- Build and maintain relationships with partners, investors, and external stakeholders\n- Conduct market research and competitive analysis in the AI and tech ecosystem\n\nQualifications\n\n- 5+ years of experience in Corporate Development, Investment Banking/Finance, Private Equity, Venture Capital, or Strategic Consulting\n- Strong financial modeling and analytical skills\n- Experience in deal execution (M&A, partnerships, or investments)\n- Excellent communication, stakeholder management skills and team collaboration\n- Ability to work in a fast-paced startup environment\n- Fluent in English and Strong Mandarin language skills\n\nPreferred Qualifications\n\n- Experience in AI, SaaS, or technology industry\n- Prior experience in a high-growth startup environment\n- Familiarity with cross-border transactions",
+      "jdZh": "角色概述\n\n作为企业发展经理，您将在通过商业项目、战略合作伙伴关系、投资、潜在并购机会和融资推动公司发展战略方面发挥关键作用。您将与首席财务官和高级领导团队密切合作，实施跨市场的高影响力计划。\n\n主要职责\n\n- 评估商业项目、战略合作伙伴关系、投资和并购机会\n- 与产品、财务和运营团队进行跨职能协作\n- 领导端到端交易执行，包括采购、财务建模、尽职调查和谈判\n- 支持筹款活动、投资者关系和董事会材料准备\n- 开发业务案例和战略分析以支持关键决策\n- 与合作伙伴、投资者和外部利益相关者建立并维持关系\n- 在人工智能和科技生态系统中进行市场研究和竞争分析\n\n资格\n\n- 在企业发展、投资银行/金融、私募股权、风险投资或战略咨询领域拥有 5 年以上经验\n- 强大的财务建模和分析能力\n- 交易执行经验（并购、合作或投资）\n- 优秀的沟通、利益相关者管理技能和团队协作\n- 能够在快节奏的初创环境中工作\n- 英语流利，普通话能力强\n\n优先资格\n\n- AI、SaaS 或科技行业经验\n- 拥有高增长创业环境的经验\n- 熟悉跨境交易",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Business Development, General Business, and Strategy/Planning",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "业务发展、一般业务和战略/规划",
+        "行业": "IT系统数据服务"
+      }
+    },
+    {
+      "id": "4379594061",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Talent Acquisition Partner",
+      "titleZh": "人才招募合作伙伴",
+      "company": "GMI Cloud",
+      "location": "Taiwan, Taiwan",
+      "locationZh": "台湾, 台湾",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/talent-acquisition-partner-at-gmi-cloud-4379594061?position=6&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=evQubXL1fTTu7N6RCFMF4w%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nThe Role\n\nWe are seeking a Talent Acquisition Partner to join our team in Taiwan. This is a high-visibility, hybrid role for a talent acquisition powerhouse who excels in a \"startup-energy\" environment.\n\nThis is not a coordination-heavy role; it is a high-execution, \"hands-on\" position. You will be the sole driver of our US talent pipeline, requiring a candidate who can operate with extreme autonomy to deliver end-to-end results. Additionally, as a bridge between our US operations and global leadership, professional fluency in both English and Mandarin is required.\n\nKey Responsibilities\n\n- High-Autonomy End-to-End Recruitment: Take full, independent ownership of the hiring lifecycle—from initial intake and aggressive sourcing to high-stakes offer negotiation and closing.\n- Market Mapping & Headhunting: Proactively map the competitive landscape in GPU Cloud and AI Infra. You are expected to \"hunt\" top-tier passive talent from industry peers rather than relying on inbound applicants.\n- External Resource Mastery: Identify, vet, and manage US-based specialized headhunter agencies to amplify our reach for niche technical and sales roles.\n- Strategic Advisory: Serve as a talent consultant to leadership, providing real-time market intelligence on compensation, competitor movement, and talent availability in Silicon Valley.\n- Bilingual Communication: Act as the primary talent liaison, effectively communicating and collaborating with stakeholders in both English and Mandarin to ensure global alignment on hiring bars and culture fit.\n- ATS Architect: Partner with HR Operations to select, implement, and lead the setup of our ATS (e.g., Greenhouse, Ashby). You will define the workflows, interview kits, and data standards from scratch.\n\nQualifications\n\n- Experience: 5+ years of full-cycle recruiting experience in high-growth tech (AI, Cloud).\n- Independent Delivery: Proven track record of independent delivery in a fast-paced environment. You must demonstrate the ability to fill complex technical and GTM roles under tight deadlines with minimal supervision.\n- Language: Professional fluency in English and Mandarin is mandatory.\n- Technical Savvy: Deep experience hiring for Technical \\Sales&Marketing\\ and SA etc roles.\n- Systems Implementation: Practical experience setting up or optimizing an ATS and building scalable recruitment processes from 0 to 1.\n- Sourcing Prowess: Expert-level sourcing skills (Boolean, Github, specialized communities) and a hunter mindset.\n\nPreferred Qualifications\n\n- A background that combines agency headhunting with in-house startup scaling.\n- Deep roots in the Silicon Valley/Bay Area tech ecosystem.\n- Experience in the GPU, Data Center, or AI Infrastructure sector.",
+      "jdZh": "关于GMI云\n\nGMI Cloud 是一家快速发展的人工智能基础设施公司，由 Headline VC 支持，也是全球仅有的六家获得 NVIDIA 享有盛誉的参考平台云合作伙伴称号的云提供商之一。\n\n我们在美国和亚洲运营着 8 个自己的 GPU 集群，提供从 GPU 计算服务到 AI 模型推理 API 解决方案的全方位服务。作为 NVIDIA 参考平台云合作伙伴，我们的基础设施满足 AI 部署中性能、安全性和可扩展性的最高标准。我们帮助人工智能初创公司和企业“无限制地构建人工智能”，为他们提供快速可靠的原型设计、训练和部署人工智能模型所需的一切。\n\n角色\n\n我们正在寻找人才招募合作伙伴加入我们在台湾的团队。对于在“初创能源”环境中表现出色的人才招聘巨头来说，这是一个引人注目的混合角色。\n\n这不是一个需要大量协调的角色；这是一个执行力强、“亲力亲为”的职位。您将成为我们美国人才管道的唯一驱动力，需要一位能够以极大的自主权运作的候选人来提供端到端的结果。此外，作为我们美国业务和全球领导层之间的桥梁，需要流利的专业英语和普通话。\n\n主要职责\n\n- 高度自主的端到端招聘：对招聘生命周期拥有完全、独立的所有权——从最初的招聘和积极的采购到高风险的报价谈判和结束。\n- 市场测绘和猎头：主动绘制 GPU 云和人工智能基础设施的竞争格局。您应该从行业同行中“猎取”顶级被动人才，而不是依赖入境申请人。\n- 外部资源掌握：识别、审查和管理美国的专业猎头机构，以扩大我们对利基技术和销售角色的影响力。\n- 战略咨询：作为领导层的人才顾问，提供有关硅谷薪酬、竞争对手动向和人才可用性的实时市场情报。\n- 双语沟通：作为主要的人才联络人，用英语和普通话与利益相关者进行有效的沟通和合作，以确保招聘标准和文化契合度方面的全球一致性。- ATS 架构师：与人力资源运营部门合作，选择、实施和领导 ATS 的设置（例如 Greenhouse、Ashby）。您将从头开始定义工作流程、访谈工具包和数据标准。\n\n资格\n\n- 经验：5年以上高增长技术（人工智能、云）全周期招聘经验。\n- 独立交付：在快节奏的环境中独立交付的良好记录。您必须证明有能力在紧迫的期限内以最少的监督来填补复杂的技术和 GTM 职位。\n- 语言：必须具备专业流利的英语和普通话。\n- 精通技术：在招聘技术\\销售和营销\\以及SA等职位方面拥有丰富的经验。\n- 系统实施：设置或优化 ATS 以及构建从 0 到 1 的可扩展招聘流程的实践经验。\n- 采购能力：专家级采购技能（布尔、Github、专业社区）和猎人心态。\n\n优先资格\n\n- 将机构猎头与内部初创企业规模化相结合的背景。\n- 深深植根于硅谷/湾区科技生态系统。\n- GPU、数据中心或人工智能基础设施领域的经验。",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Human Resources",
+        "Industries": "Software Development, Technology, Information and Media, and IT System Data Services"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "人力资源",
+        "行业": "软件开发、技术、信息与媒体、IT系统数据服务"
+      }
+    },
+    {
+      "id": "4389490842",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Recruiting Platform & Automation Engineer",
+      "titleZh": "招聘平台及自动化工程师",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "加利福尼亚州山景城",
+      "postedDate": "2026-03-24",
+      "postedRelative": "3 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/recruiting-platform-automation-engineer-at-gmi-cloud-4389490842?position=7&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=AbFR%2BqV1IrTCRJGrcH4jeQ%3D%3D",
+      "jdEn": "Recruiting Platform & Automation Engineer (6–12 Month Contract)\n\nRole Type: Fixed-term Contractor\n\nDuration: 6–12 Months (Project-based with potential for extension/FTE)\n\n[The Mission]\n\nGMI Cloud is in a hyper-growth phase. We are not looking for a traditional recruiter; we are looking for a Tech-Ops Hacker for a high-intensity 6-to-12-month mission. Your goal is to eliminate manual repetition from our global recruitment lifecycle. You will re-engineer our talent acquisition foundation using a modern AI Stack, building an automated engine that achieves non-linear growth in hiring capacity.\n\n[Project Deliverables]\n\n1. AI Stack Integration & Landing\n\n- System Landing: Drive the rapid deployment and optimization of our ATS (Applicant Tracking System).\n- Intelligence Layer: Integrate LLM-based tools to automate resume screening, candidate ranking, and intelligent matching.\n- Autonomous Scheduling: Deploy 24/7 AI agents to handle interview coordination across global time zones (GMT+8 to PST), removing the \"human-in-the-middle\" delay.\n\n2. Hyper-Automation & Workflow Hacking\n\n- Talent Pool Activation: Build automated \"drip campaigns\" to re-activate our passive database using personalized AI outreach.\n- Friction Removal: Identify repetitive tasks in the sourcing-to-onboarding pipeline with automation (e.g., Zapier, Make, or custom scripts).\n\n3. Data-Driven Architecture (The Source of Truth)\n\n- Real-time Visibility: Ensure 100% data integrity and real-time dashboards for all global vacancies.\n- Predictive Modeling: Use data to pinpoint friction in the \"Talent Supply Chain\"—predicting RFS (Ready For Service) delays based on hiring velocity.\n\n[Contract Details]\n\n- Term: This is a 6-to-12-month contract position.\n- Focus: We are looking for an \"Architect\" who can build the engine, not just a \"Driver.\"\n- Outcome: At the end of the term, you will have left a legacy of a fully automated, data-driven hiring machine.\n\n[Ideal Profile]\n\n- The Hacker Mindset: You are obsessed with \"Technical Leverage.\" You prefer 10 lines of code over 10 hours of manual labor.\n- AI Tool Obsession: Deeply familiar with the AI ecosystem (OpenAI API, Claude, LangChain, or AI-sourcing tools).\n- ATS Architect: Proven experience in landing and optimizing platforms like Greenhouse, Lever, or Ashby.\n- Agile Operator: Able to work at the \"Speed of Light\" in a startup environment where transparency matters more than permission.",
+      "jdZh": "招聘平台及自动化工程师（6-12个月合同）\n\n角色类型：定期承包商\n\n持续时间：6-12 个月（基于项目，有可能延长/FTE）\n\n[使命]\n\nGMI Cloud 正处于高速增长阶段。我们不是在寻找传统的招聘人员；而是在寻找传统的招聘人员。我们正在寻找一名技术运营黑客来执行为期 6 至 12 个月的高强度任务。您的目标是消除我们全球招聘生命周期中的手动重复。您将使用现代人工智能堆栈重新设计我们的人才招聘基础，构建一个自动化引擎，实现招聘能力的非线性增长。\n\n[项目成果]\n\n1.AI堆栈集成与落地\n\n- 系统落地：推动ATS（申请人追踪系统）的快速部署和优化。\n- 智能层：集成基于LLM的工具，实现简历筛选、候选人排名和智能匹配的自动化。\n- 自主调度：部署 24/7 人工智能代理来处理全球时区（GMT+8 至 PST）的采访协调，消除“中间人”延迟。\n\n2. 超自动化和工作流程黑客\n\n- 人才库激活：建立自动化的“滴水活动”，使用个性化的人工智能推广来重新激活我们的被动数据库。\n- 消除摩擦：通过自动化（例如 Zapier、Make 或自定义脚本）识别采购到入职流程中的重复任务。\n\n3.数据驱动架构（真理之源）\n\n- 实时可见性：确保全球所有职位空缺的 100% 数据完整性和实时仪表板。\n- 预测建模：使用数据查明“人才供应链”中的摩擦——根据招聘速度预测 RFS（服务就绪）延迟。\n\n[合同详情]\n\n- 期限：这是一个为期 6 至 12 个月的合约头寸。\n- 焦点：我们正在寻找一个能够构建引擎的“架构师”，而不仅仅是一个“驱动程序”。\n- 结果：在学期结束时，您将留下一台完全自动化、数据驱动的招聘机器。\n\n[理想的个人资料]\n\n- 黑客心态：你痴迷于“技术杠杆”。与 10 小时的体力劳动相比，您更喜欢 10 行代码。\n- 痴迷AI工具：深入熟悉AI生态系统（OpenAI API、Claude、LangChain或AI采购工具）。\n- ATS 架构师：在登陆和优化 Greenhouse、Lever 或 Ashby 等平台方面拥有丰富的经验。\n- 敏捷操作员：能够在透明度比许可更重要的初创环境中以“光速”工作。",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Contract",
+        "Job function": "Human Resources",
+        "Industries": "IT System Data Services, IT System Custom Software Development, and Technology, Information and Media"
+      },
+      "criteriaZh": {
+        "工龄级别": "联系",
+        "就业类型": "合同",
+        "工作职能": "人力资源",
+        "行业": "IT系统数据服务、IT系统定制软件开发、技术、信息和媒体"
+      }
+    },
+    {
+      "id": "4394339407",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Technical Account Manager (TAM)",
+      "titleZh": "技术客户经理 (TAM)",
+      "company": "GMI Cloud",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "locationZh": "内湖区, 台北市, 台湾",
+      "postedDate": "2026-04-01",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/technical-account-manager-tam-at-gmi-cloud-4394339407?position=8&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=0UTII%2BfYoONPqR8LR%2BXboA%3D%3D",
+      "jdEn": "About US\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\n\n\nAbout this role\n\nWe're seeking a Technical Account Manager (TAM) with a strong customer-first approach, technical expertise, and a passion for solving complex challenges. You will play a critical role in ensuring customers have an outstanding experience with GPU Cloud by addressing their needs proactively, resolving technical challenges promptly, and advocating for their success. If you thrive in fast-paced environments, excel in building strong customer relationships, and are driven to deliver exceptional service, we'd love to hear from you.\n\nKey Responsibilities\n\nBuilding Strong Customer Relationships\n\n• Serve as the primary technical contact for customers, addressing inquiries and issues promptly and effectively.\n\n• Advocate for customers within GMI Cloud, ensuring their needs influence product roadmaps and service enhancements.\n\n• Conduct workshops, training sessions, and tailored consultations to help customers maximize GPU Cloud utilization.\n\nProactive Problem-Solving & Technical Guidance\n\n• Monitor customer environments to identify potential risks and performance bottlenecks, implementing preventative measures.\n\n• Guide customers in designing and optimizing GPU-based system architectures, ensuring performance, scalability, and stability.\n\n• Support cloud migrations by leveraging expertise in high-performance computing, AI/ML workloads, and data processing.\n\nCloud Optimization & Operational Excellence\n\n• Conduct operational reviews to assess resource utilization, performance improvements, and cost optimization opportunities.\n\n• Collaborate with customers to enhance business continuity, disaster recovery, and system monitoring capabilities.\n\n• Drive continuous improvements, empowering customers to independently maintain and scale their cloud environments.\n\nRequired Skills\n\n- AI Infrastructure: Understanding of GPU servers, storage (Ceph, NVMe, NFS), and high-speed networking (InfiniBand, RoCE).\n- Kubernetes (K8s): Understanding of container orchestration, scheduling, and networking.\n- AI/LLM: Familiarity with large language model training and inference workflows.\n- Frameworks: Working knowledge of SGLang, vLLM, Slurm, and Ray (Anyscale) or equivalent distributed computing tools.\n- Communication: Clear and confident in technical discussions with customers and internal teams.\n\nPreferred Qualifications\n\n- Certified Kubernetes Administrator (CKA) certification is preferred.\n- Hands-on experience in HPC, MLOps, or large-scale AI infrastructure environments.\n- Experience managing or scaling Ray clusters for distributed inference or data processing.\n- Bachelor's or Master's degree in Computer Science, Engineering, or related technical field.\n- Prior experience supporting enterprise or hyperscale AI workloads is a plus.",
+      "jdZh": "关于我们\n\nGMI Cloud 是一家快速发展的人工智能基础设施公司，由 Headline VC 支持，也是全球仅有的六家获得 NVIDIA 享有盛誉的参考平台云合作伙伴称号的云提供商之一。我们在美国和亚洲运营着 8 个自己的 GPU 集群，提供从 GPU 计算服务到 AI 模型推理 API 解决方案的全方位服务。作为 NVIDIA 参考平台云合作伙伴，我们的基础设施满足 AI 部署中性能、安全性和可扩展性的最高标准。我们帮助人工智能初创公司和企业“无限制地构建人工智能”，为他们提供快速可靠的原型设计、训练和部署人工智能模型所需的一切。\n\n\n\n关于这个角色\n\n我们正在寻找一位技术客户经理 (TAM)，他具有强烈的客户至上理念、技术专长以及解决复杂挑战的热情。您将通过主动满足客户的需求、及时解决技术挑战并倡导他们的成功，在确保客户获得 GPU 云的出色体验方面发挥关键作用。如果您在快节奏的环境中茁壮成长，擅长建立牢固的客户关系，并致力于提供卓越的服务，我们很乐意听取您的意见。\n\n主要职责\n\n建立牢固的客户关系\n\n• 作为客户的主要技术联系人，及时有效地解决询问和问题。\n\n• 在GMI Cloud 内为客户提供支持，确保他们的需求影响产品路线图和服务增强。\n\n• 举办研讨会、培训课程和定制咨询，帮助客户最大限度地提高 GPU 云利用率。\n\n主动解决问题和技术指导\n\n• 监控客户环境以识别潜在风险和性能瓶颈，实施预防措施。\n\n• 指导客户设计和优化基于GPU 的系统架构，确保性能、可扩展性和稳定性。\n\n• 利用高性能计算、AI/ML 工作负载和数据处理方面的专业知识支持云迁移。\n\n云优化和卓越运营\n\n• 进行运营审查以评估资源利用率、性能改进和成本优化机会。\n\n• 与客户合作，增强业务连续性、灾难恢复和系统监控能力。\n\n• 推动持续改进，使客户能够独立维护和扩展其云环境。\n\n所需技能\n\n- AI 基础设施：了解 GPU 服务器、存储（Ceph、NVMe、NFS）和高速网络（InfiniBand、RoCE）。\n- Kubernetes (K8s)：了解容器编排、调度和网络。\n- AI/LLM：熟悉大型语言模型训练和推理工作流程。\n- 框架：SGLang、vLLM、Slurm 和 Ray (Anyscale) 或等效分布式计算工具的工作知识。\n- 沟通：与客户和内部团队进行清晰且自信的技术讨论。\n\n优先资格\n\n- 获得 Kubernetes 管理员认证（CKA）认证者优先。\n- 在 HPC、MLOps 或大规模 AI 基础设施环境中拥有实践经验。\n- 具有管理或扩展 Ray 集群以进行分布式推理或数据处理的经验。\n- 计算机科学、工程或相关技术领域的学士或硕士学位。\n- 有支持企业或超大规模人工智能工作负载的经验者优先。",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Customer Service",
+        "Industries": "IT Services and IT Consulting, IT System Operations and Maintenance, and IT System Custom Software Development"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "客户服务",
+        "行业": "IT服务及IT咨询、IT系统运维、IT系统定制软件开发"
+      }
+    },
+    {
+      "id": "4359897165",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Recruiter",
+      "titleZh": "高级招聘专员",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "加利福尼亚州山景城",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/senior-recruiter-at-gmi-cloud-4359897165?position=9&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=q7gt24JnCBnuu4xOTlI%2Fyg%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nThe Role\n\nWe are seeking a Senior Recruiter to join our team in Mountain View, CA. This is a high-visibility, hybrid role for a talent acquisition powerhouse who excels in a \"startup-energy\" environment.\n\nThis is not a coordination-heavy role; it is a high-execution, \"hands-on\" position. You will be the sole driver of our US talent pipeline, requiring a candidate who can operate with extreme autonomy to deliver end-to-end results. Additionally, as a bridge between our US operations and global leadership, professional fluency in both English and Mandarin is required.\n\nKey Responsibilities\n\n- High-Autonomy End-to-End Recruitment: Take full, independent ownership of the hiring lifecycle—from initial intake and aggressive sourcing to high-stakes offer negotiation and closing.\n- Market Mapping & Headhunting: Proactively map the competitive landscape in GPU Cloud and AI Infra. You are expected to \"hunt\" top-tier passive talent from industry peers rather than relying on inbound applicants.\n- External Resource Mastery: Identify, vet, and manage US-based specialized headhunter agencies to amplify our reach for niche technical and sales roles.\n- Strategic Advisory: Serve as a talent consultant to leadership, providing real-time market intelligence on compensation, competitor movement, and talent availability in Silicon Valley.\n- Bilingual Communication: Act as the primary talent liaison, effectively communicating and collaborating with stakeholders in both English and Mandarin to ensure global alignment on hiring bars and culture fit.\n- ATS Architect: Partner with HR Operations to select, implement, and lead the setup of our ATS (e.g., Greenhouse, Ashby). You will define the workflows, interview kits, and data standards from scratch.\n\nQualifications\n\n- Experience: 5+ years of full-cycle recruiting experience in high-growth tech (AI, Cloud).\n- Independent Delivery: Proven track record of independent delivery in a fast-paced environment. You must demonstrate the ability to fill complex technical and GTM roles under tight deadlines with minimal supervision.\n- Language: Professional fluency in English and Mandarin is mandatory.\n- Technical Savvy: Deep experience hiring for Technical \\Sales&Marketing\\ and SA etc roles.\n- Systems Implementation: Practical experience setting up or optimizing an ATS and building scalable recruitment processes from 0 to 1.\n- Sourcing Prowess: Expert-level sourcing skills (Boolean, Github, specialized communities) and a hunter mindset.\n\nPreferred Qualifications\n\n- A background that combines agency headhunting with in-house startup scaling.\n- Deep roots in the Silicon Valley/Bay Area tech ecosystem.\n- Experience in the GPU, Data Center, or AI Infrastructure sector.\n\nWhy Join GMI Cloud?\n\n- Impact: You are the founding member of the US TA function; your fingerprints will be on every key hire we make.\n- Silicon Valley Energy: Work from our Mountain View HQ at the epicenter of the AI revolution.\n- Growth: As GMI Cloud scales, your role and influence within the organization will grow exponentially.",
+      "jdZh": "关于GMI云\n\nGMI Cloud 是一家快速发展的人工智能基础设施公司，由 Headline VC 支持，也是全球仅有的六家获得 NVIDIA 享有盛誉的参考平台云合作伙伴称号的云提供商之一。\n\n我们在美国和亚洲运营着 8 个自己的 GPU 集群，提供从 GPU 计算服务到 AI 模型推理 API 解决方案的全方位服务。作为 NVIDIA 参考平台云合作伙伴，我们的基础设施满足 AI 部署中性能、安全性和可扩展性的最高标准。我们帮助人工智能初创公司和企业“无限制地构建人工智能”，为他们提供快速可靠的原型设计、训练和部署人工智能模型所需的一切。\n\n角色\n\n我们正在寻找一名高级招聘人员加入我们位于加利福尼亚州山景城的团队。对于在“初创能源”环境中表现出色的人才招聘巨头来说，这是一个引人注目的混合角色。\n\n这不是一个需要大量协调的角色；这是一个执行力强、“亲力亲为”的职位。您将成为我们美国人才管道的唯一驱动力，需要一位能够以极大的自主权运作的候选人来提供端到端的结果。此外，作为我们美国业务和全球领导层之间的桥梁，需要流利的专业英语和普通话。\n\n主要职责\n\n- 高度自主的端到端招聘：对招聘生命周期拥有完全、独立的所有权——从最初的招聘和积极的采购到高风险的报价谈判和结束。\n- 市场测绘和猎头：主动绘制 GPU 云和人工智能基础设施的竞争格局。您应该从行业同行中“猎取”顶级被动人才，而不是依赖入境申请人。\n- 外部资源掌握：识别、审查和管理美国的专业猎头机构，以扩大我们对利基技术和销售角色的影响力。\n- 战略咨询：作为领导层的人才顾问，提供有关硅谷薪酬、竞争对手动向和人才可用性的实时市场情报。\n- 双语沟通：作为主要的人才联络人，用英语和普通话与利益相关者进行有效的沟通和合作，以确保招聘标准和文化契合度方面的全球一致性。- ATS 架构师：与人力资源运营部门合作，选择、实施和领导 ATS 的设置（例如 Greenhouse、Ashby）。您将从头开始定义工作流程、访谈工具包和数据标准。\n\n资格\n\n- 经验：5年以上高增长技术（人工智能、云）全周期招聘经验。\n- 独立交付：在快节奏的环境中独立交付的良好记录。您必须证明有能力在紧迫的期限内以最少的监督来填补复杂的技术和 GTM 职位。\n- 语言：必须具备专业流利的英语和普通话。\n- 精通技术：在招聘技术\\销售和营销\\以及SA等职位方面拥有丰富的经验。\n- 系统实施：设置或优化 ATS 以及构建从 0 到 1 的可扩展招聘流程的实践经验。\n- 采购能力：专家级采购技能（布尔、Github、专业社区）和猎人心态。\n\n优先资格\n\n- 将机构猎头与内部初创企业规模化相结合的背景。\n- 深深植根于硅谷/湾区科技生态系统。\n- GPU、数据中心或人工智能基础设施领域的经验。\n\n为什么加入GMI云？\n\n- 影响力：您是美国助教职能的创始成员；我们聘用的每一位关键员工都将留下您的指纹。\n- 硅谷能源：在位于人工智能革命中心的山景城总部工作。\n- 增长：随着 GMI Cloud 的扩展，您在组织中的角色和影响力将呈指数级增长。",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Human Resources",
+        "Industries": "Software Development, Technology, Information and Media, and IT System Data Services"
+      },
+      "criteriaZh": {
+        "工龄级别": "中高级水平",
+        "就业类型": "全日制",
+        "工作职能": "人力资源",
+        "行业": "软件开发、技术、信息与媒体、IT系统数据服务"
+      }
+    },
+    {
+      "id": "4386562879",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Product Management Operations",
+      "titleZh": "Product Management Operations",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-17",
+      "postedRelative": "4 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/product-management-operations-at-gmi-cloud-4386562879?position=10&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=pscAKSVRrcbwHl4%2BhbHx4A%3D%3D",
+      "jdEn": "We are looking for a Product Management Specialist to support the product team in ensuring smooth product launches, vendor coordination, and operational readiness across the platform.\n\nThis role sits at the intersection of product, engineering, vendors, and GTM teams, helping ensure that product updates, billing systems, and launch materials are properly prepared and executed.\n\nResponsibilities\n\n- Support product operations and launch readiness, ensuring product updates and releases are properly tracked and communicated\n- Assist in billing and usage monitoring, verifying pricing configurations and usage records across vendors and platforms\n- Track vendor integration status, including service availability, pricing updates, and operational readiness\n- Monitor product status and internal documentation, ensuring product specs and operational notes remain up to date\n- Coordinate with product, engineering, and marketing teams to ensure product materials and GTM assets are ready for launches\n- Help maintain internal product dashboards, tracking sheets, and operational workflows\n- Support cross-team communication to ensure smooth product delivery and operational execution\n\nQualifications\n\n- Currently pursuing or recently completed a degree in Business, Computer Science, Information Systems, or related field\n- Strong organizational and operational thinking\n- Comfortable working with technical products, APIs, or cloud platforms\n- Detail-oriented with the ability to track multiple moving parts\n- Strong communication skills and ability to work cross-functionally\n- Familiarity with product management tools, spreadsheets, or dashboards is a plus\n\nBonus\n\n- Interest in AI infrastructure, cloud platforms, or developer products\n- Experience working with product operations, billing systems, or vendor management",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Marketing",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4400219306",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Strategic Sourcing Manager/Director (MEP)",
+      "titleZh": "Strategic Sourcing Manager/Director (MEP)",
+      "company": "GMI Cloud",
+      "location": "APAC",
+      "locationZh": "APAC",
+      "postedDate": "2026-04-09",
+      "postedRelative": "5 days ago",
+      "url": "https://www.linkedin.com/jobs/view/strategic-sourcing-manager-director-mep-at-gmi-cloud-4400219306?position=11&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=4hz6woFGXdtSiGDBesQxyA%3D%3D",
+      "jdEn": "Strategic Sourcing Manager/Director (MEP)\n\nAbout GMI Cloud GMI Cloud is a fast-growing AI infrastructure company and an NVIDIA Reference Platform Cloud Partner. We operate 8 GPU clusters across the U.S. and Asia, empowering AI startups to prototype, train, and deploy models at scale.\n\nAbout the Role We are looking for a Strategic Sourcing Manager or Director specializing in MEP infrastructure. This is a high-impact role for a seasoned professional with 8-10 years of experience who can operate independently to build and manage our global MEP supply chain. You will own the strategy, vendor relationships, and commercial negotiations that power our AI data centers.\n\n- Location: Remote (APAC based)\n- Language: Bilingual in English and Mandarin (Required)\n\nKey Responsibilities\n\n- Sourcing Strategy: Develop and lead the end-to-end sourcing strategy for MEP equipment (Generators, UPS, Chillers, Switchgear, etc.) to support rapid data center deployments.\n- Vendor Management: Identify, qualify, and manage a robust pool of global and APAC-based MEP suppliers. Conduct audits and performance reviews.\n- Negotiation & Contracting: Lead all commercial negotiations for multi-million dollar assets. Own the Master Service Agreements (MSAs) and ensure favorable TCO and lead times.\n- Market Intelligence: Stay ahead of MEP commodity trends and lead-time fluctuations, specifically within the APAC manufacturing landscape.\n- Stakeholder Alignment: Partner directly with Engineering, Construction, and Finance teams to ensure technical and budgetary alignment.\n\nWho You Are\n\n- 8-10+ years of experience in Strategic Sourcing or Category Management, with a heavy focus on MEP equipment.\n- Deep expertise in Data Center infrastructure or large-scale industrial projects.\n- Proven ability to work independently in a fast-paced, remote environment—you are a \"self-starter\" who doesn't need a playbook to deliver results.\n- Bilingual Mastery: Professional fluency in Mandarin and English is a must for managing our cross-border supply chain.\n- Strong technical acumen regarding MEP assets and their integration into AI-grade facilities.\n\nPreferred\n\n- Experience in hyperscale or AI-focused data center build-outs.\n- A strong existing network of MEP manufacturers across Asia and North America.\n- Bachelor's degree in Engineering, Supply Chain, or a related field.\n\nEqual Opportunity Statement GMI Cloud is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Purchasing",
+        "Industries": "IT System Data Services and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4399231437",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Assistant Accountant",
+      "titleZh": "Assistant Accountant",
+      "company": "GMI Cloud",
+      "location": "Hong Kong, Hong Kong SAR",
+      "locationZh": "Hong Kong, Hong Kong SAR",
+      "postedDate": "2026-04-08",
+      "postedRelative": "6 days ago",
+      "url": "https://hk.linkedin.com/jobs/view/assistant-accountant-at-gmi-cloud-4399231437?position=12&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=VL%2BhRHG1SlG8AZW0raiWBQ%3D%3D",
+      "jdEn": "Job responsibilities:\n\n- Handle daily accounting operations, including accounts payable, staff reimbursements, input journal entries\n- Prepare month-end closing, reconciliation and supporting schedules\n- Support Accountant to prepare group consolidation financial statements, supporting schedules and management reports\n- Ensure proper filing records on a timely basis\n- Assist Accountant in preparing annual audit\n- Perform ad hoc projects and special assignments\n\nRequirements:\n\n- Diploma or Certificate in Accounting or above\n- Student member of related professional accounting qualifications such as HKICPA / ACCA / CPAA\n- Minimum 3 years of relevant accounting commercial experience\n- Good command of written & spoken English, Cantonese and Mandarin\n- Proficiency in Excel skills\n- Familiarity with QuickBooks (accounting software) is preferred but not mandatory\n- Detail-oriented, self-driven, strong sense of responsibility, able to meet tight deadlines and work independently\n- Good interpersonal skills and team player\n- Immediate available is preferred\n\nWe offer an exciting career opportunity and competitive remuneration to the successful candidate.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Accounting/Auditing",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4383006230",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Talent Acquisition Partner",
+      "titleZh": "Talent Acquisition Partner",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/talent-acquisition-partner-at-gmi-cloud-4383006230?position=13&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=4p0FRGaGS8gjWtPGejGa9w%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nThe Role\n\nWe are seeking a Talent Acquisition Partner to join our team in Mountain View, CA. This is a high-visibility, hybrid role for a talent acquisition powerhouse who excels in a \"startup-energy\" environment.\n\nThis is a high-execution, \"hands-on\" position. You will be the sole driver of our US talent pipeline, requiring a candidate who can operate with extreme autonomy to deliver end-to-end results. Additionally, as a bridge between our US operations and global leadership, professional fluency in both English and Mandarin is required.\n\nKey Responsibilities\n\n- High-Autonomy End-to-End Recruitment: Take full, independent ownership of the hiring lifecycle—from initial intake and aggressive sourcing to high-stakes offer negotiation and closing.\n- Market Mapping & Headhunting: Proactively map the competitive landscape in GPU Cloud and AI Infra. You are expected to \"hunt\" top-tier passive talent from industry peers rather than relying on inbound applicants.\n- External Resource Mastery: Identify, vet, and manage US-based specialized headhunter agencies to amplify our reach for niche technical and sales roles.\n- Strategic Advisory: Serve as a talent consultant to leadership, providing real-time market intelligence on compensation, competitor movement, and talent availability in Silicon Valley.\n- Bilingual Communication: Act as the primary talent liaison, effectively communicating and collaborating with stakeholders in both English and Mandarin to ensure global alignment on hiring bars and culture fit.\n- ATS Architect: Partner with HR Operations to select, implement, and lead the setup of our ATS (e.g., Greenhouse, Ashby). You will define the workflows, interview kits, and data standards from scratch.\n\nQualifications\n\n- Experience: 10+ years of full-cycle recruiting experience in high-growth tech (AI, Cloud).\n- Independent Delivery: Proven track record of independent delivery in a fast-paced environment. You must demonstrate the ability to fill complex technical and GTM roles under tight deadlines with minimal supervision.\n- Language: Professional fluency in English and Mandarin is mandatory.\n- Technical Savvy: Deep experience hiring for Technical \\Sales&Marketing\\ and SA etc roles.\n- Systems Implementation: Practical experience setting up or optimizing an ATS and building scalable recruitment processes from 0 to 1.\n- Sourcing Prowess: Expert-level sourcing skills (Boolean, Github, specialized communities) and a hunter mindset.\n\nPreferred Qualifications\n\n- A background that combines agency headhunting with in-house startup scaling.\n- Deep roots in the Silicon Valley/Bay Area tech ecosystem.\n- Experience in the GPU, Data Center, or AI Infrastructure sector.\n\nWhy Join GMI Cloud?\n\n- Impact: You are the founding member of the US TA function; your fingerprints will be on every key hire we make.\n- Silicon Valley Energy: Work from our Mountain View HQ at the epicenter of the AI revolution.\n- Growth: As GMI Cloud scales, your role and influence within the organization will grow exponentially.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Human Resources",
+        "Industries": "Software Development, Technology, Information and Media, and IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4393514382",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Content & Growth Marketer",
+      "titleZh": "Content & Growth Marketer",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/content-growth-marketer-at-gmi-cloud-4393514382?position=14&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=zz6U%2Fz5r4Qf7cBK2hp5C6Q%3D%3D",
+      "jdEn": "Content & Growth Marketer (Technical Focus)\n\nGMI Cloud · Mountain View, CA (Hybrid)\n\nWe're looking for a content-driven growth marketer who can bridge marketing and engineering — someone who understands developer audiences and can turn technical depth into scalable growth.\n\nThis role sits at the intersection of SEO, engineering GTM, developer in-action content, and distribution.\n\nContent, SEO & Technical Writing\n\n- Plan and publish high-impact content across blog, landing pages, docs, and community.\n- Write deep-dive technical articles for developers (model inference, training, architecture breakdowns, benchmarks, deployment patterns).\n- Translate complex AI infrastructure and technical concepts into clear, structured content.\n- Collaborate with engineers to turn internal benchmarks, experiments, and system design work into publishable metrics-driven product blog posts.\n- Create short-cut product guides, quickstart tutorials, integration walkthroughs, and technical documentation.\n- Build and maintain a structured keyword/content strategy (clustered by funnel stage).\n- Identify and update underperforming pages based on analytics and search trends.\n- Contribute to thought leadership around AI infra, MaaS, model optimization, and cost efficiency.\n\nGrowth & Distribution\n\n- Manage our presence across substack, github, and other technical content platforms.\n- Turn product releases and infra updates into engaging technical narratives.\n- Work cross-functionally with product, engineering, and design to extract ideas worth amplifying.\n- Support SEO experiments, landing pages, and growth loops.\n- Repurpose long-form technical content into social threads, short posts, and community content.\n\nAnalytics & Iteration\n\n- Track performance across GA4, Semrush, Ahrefs, and social tools.\n- Own reporting and feedback loop: what's working, what's not, and what to try next.\n- Continuously optimize content for traffic quality, developer engagement, and conversion.\n- Measure impact across awareness → signup → GTM activation funnel.\n\nWhat We're Looking For\n\n- 4–6 years of experience in content marketing, growth, or technical writing.\n- Experience in AI, infrastructure, dev tools, cloud, or SaaS.\n- Strong writing skills: able to break down complex technical topics clearly.\n- Comfortable writing for developer audiences.\n- Experience with SEO strategy and tooling (Semrush, Ahrefs etc.).\n- Familiarity with AI infrastructure, inference workflows, APIs, or developer ecosystems.\n- Comfortable in a startup environment: fast-paced, autonomous, iterative",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Marketing",
+        "Industries": "IT Services and IT Consulting, IT System Training and Support, and IT System Installation and Disposal"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4390602082",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Machine Learning Engineer",
+      "titleZh": "Machine Learning Engineer",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-25",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-gmi-cloud-4390602082?position=15&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=Z6X%2BEbJ3jZTuXaK4PZLqBQ%3D%3D",
+      "jdEn": "Location: Bay area (frequent customer interaction)\n\nTeam: Inference & Reinforcement Learning Platform\n\nAbout the Role\n\nWe're looking for a Machine Learning Engineer (MLE) to work directly with customers and partners to design, deploy, and validate inference and reinforcement learning (RL) proof-of-concepts on GMI's GPU infrastructure.\n\nThis is a high-impact, hybrid engineering role that sits at the intersection of platform engineering, applied ML, and customer success. You'll be embedded with customers during early-stage deployments—turning research ideas, datasets, and business requirements into working, performant systems on real GPU clusters.\n\nIf you enjoy being close to users, debugging real systems, and shipping results fast (not just writing docs), this role is for you.\n\nWhat You'll Do\n\nOwn customer POCs end-to-end\n\n- Deploy and optimize LLM inference, RL training, and post-training workflows on GMI clusters\n- Translate customer requirements into concrete system designs and experiments\n\nForward-deploy with customers\n\n- Work hands-on with research teams, startups, and enterprise customers\n- Debug performance, stability, and correctness issues in real environments\n\nInference deployment\n\n- Stand up and tune inference stacks (e.g. vLLM / SGLang / Ray Serve–style architectures)\n- Optimize latency, throughput, GPU utilization, and cost efficiency\n\nRL & post-training POCs\n\n- Support RLHF / RFT / SFT workflows using customer-provided datasets\n- Integrate SDKs, training APIs, and cluster resources to shorten \"idea → experiment\" cycles\n\nPerformance & reliability\n\n- Diagnose GPU, networking, and distributed system bottlenecks\n- Run benchmarks, profiling, and stress tests on multi-GPU / multi-node setups\n\nFeedback loop to product\n\n- Feed real-world customer learnings back into GMI's platform, SDKs, and APIs\n- Help shape reference architectures, cookbooks, and best practices\n\nWhat We're Looking For\n\nCore Requirements\n\n- Strong software engineering background (Python required; Go / Rust a plus)\n- Hands-on experience with ML inference or training systems\n- Familiarity with distributed systems and GPUs (multi-GPU, multi-node)\n- Comfort working directly with customers and ambiguous requirements\n- Ability to debug end-to-end systems (code, infra, networking, performance)\n\nNice to Have\n\n- Experience with:\n- LLM inference frameworks (vLLM, SGLang, Ray Serve, Triton, etc.)\n- RL or post-training workflows (RLHF, RFT, SFT)\n- PyTorch, DeepSpeed, Megatron-LM, or similar\n- Kubernetes-based ML platforms\n- GPU performance profiling and optimization\n- Prior experience as:\n- Forward Deployed Engineer\n- Solutions Engineer\n- ML Platform Engineer\n- Applied Research Engineer\n\nWhat Makes This Role Special\n\n- You're close to real users and real GPUs—not abstract roadmaps\n- You'll work on cutting-edge inference and RL workloads, not toy demos\n- You'll influence product direction through direct customer feedback\n- Fast iteration, high ownership, and visible impact\n\nWho Thrives Here\n\n- Engineers who like shipping over theorizing\n- People who enjoy being the \"last mile\" problem solver\n- Builders who want exposure to both deep systems and applied ML\n- Those excited by early-stage POCs that turn into real production systems",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT Services and IT Consulting, Software Development, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4401723936",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Technical Program Manager",
+      "titleZh": "Technical Program Manager",
+      "company": "GMI Cloud",
+      "location": "APJ",
+      "locationZh": "APJ",
+      "postedDate": "2026-04-14",
+      "postedRelative": "20 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/technical-program-manager-at-gmi-cloud-4401723936?position=16&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=TuJS2z6jnd912OMKANIPgg%3D%3D",
+      "jdEn": "About the Company\n\nGMI Cloud is building next-generation AI infrastructure designed for large-scale GPU training and inference workloads. Our platform supports high-density GPU clusters deployed in modern data centers across multiple regions.\n\nAbout the Role\n\nWe are looking for a Junior Technical Program Manager (TPM) to drive the deployment and delivery of GPU cluster infrastructure. This role will work at the intersection of AI hardware platforms, high-performance networking, and data center infrastructure, coordinating across solution architects, engineering teams, vendors, and contractors to deliver production-ready AI clusters.\n\nResponsibilities\n\nRole Overview\n\nAs a Junior TPM at GMI Cloud, you will be at the heart of our AI infrastructure expansion. You will coordinate the end-to-end deployment of cutting-edge GPU clusters—from the first blueprint to the final production launch. You will be the \"glue\" connecting Solution Architects, network engineers, and field contractors to ensure our high-performance computing (HPC) environments are delivered on time and at scale.\n\nKey Responsibilities\n\n- Cluster Deployment Orchestration: Drive the end-to-end lifecycle of AI GPU clusters, ensuring hardware, network, and power/cooling readiness align with production timelines.\n- Architecture Partnership: Collaborate with Infrastructure Solution Architects (SA) to support GPU server selection, network topology design, and the development of Bills of Materials (BOM).\n- HPC Integration: Oversee rack elevation planning, GPU server configuration, and the implementation of high-speed interconnects (InfiniBand/RoCE).\n- Field & Vendor Coordination: Partner with General Contractors (GC) and system integrators to manage on-site logistics, cabling, and hardware staging.\n- Validation & Benchmarking: Coordinate cluster bring-up activities, including multi-node GPU validation and stress testing (P2P/RDMA) to ensure peak performance.\n- Operational Handover: Develop runbooks and ensure monitoring/telemetry are integrated before handing off to the Operations team.\n\nWhat We're Looking For\n\nQualifications & Experience:\n\n- 2+ years of experience in Technical Program Management, Infrastructure Delivery, or Systems Engineering.\n- Exposure to Data Center hardware or High-Performance Computing (HPC) environments.\n- Basic understanding of GPU server architecture and the components that make up a distributed cluster.\n- Ability to manage multi-vendor projects and navigate complex delivery timelines.\n\nTechnical Familiarity (Bonus points if you know):\n\n- High-speed networking (InfiniBand / RoCE / RDMA).\n- Rack elevation and high-density power/cooling requirements.\n- Experience with NVIDIA AI infrastructure platforms or liquid-cooling technologies.\n\n💡 A Note on Requirements (Read This First!)\n\n\"We don't expect you to check every single box above.\"\n\nAt GMI Cloud, we value grit, curiosity, and the ability to learn fast over a perfect resume. If you have a solid foundation in infrastructure, a passion for AI hardware, and the confidence to master new technologies on the fly, we want to hear from you. > If you meet some of the requirements and are excited about building the future of AI infrastructure, please don't hesitate to apply!",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering and Information Technology",
+        "Industries": "IT System Data Services, IT Services and IT Consulting, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4393516423",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Technical Program Manager (TPM)",
+      "titleZh": "Technical Program Manager (TPM)",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/technical-program-manager-tpm-at-gmi-cloud-4393516423?position=17&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=P%2FQx%2BDeQrFyh1OZMqxaC0A%3D%3D",
+      "jdEn": "About US\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\n\n\nAbout this role\n\nWe are looking for a Technical Program Manager (TPM) who combines strong program ownership, production sense, and execution rigor with a solid technical foundation in AI infrastructure and distributed systems.\n\nIn this role, you will own and drive complex, cross-functional programs that span GPU infrastructure, Kubernetes platforms, inference/training systems, and customer-facing AI services. You will ensure that high-impact initiatives move from design → implementation → production → scale, on time and with high quality.\n\nThis is a hands-on TPM role for someone who can:\n\n- Speak fluently with engineers\n- Think like a product manager about tradeoffs and user impact\n- And execute like an owner in a fast-moving environment.\n\nKey Responsibilities\n\nProgram Ownership & Delivery Excellence\n\n- Own end-to-end delivery of complex technical programs across AI infrastructure, GPU platforms, and cloud services.\n- Define clear goals, milestones, dependencies, risks, and success metrics for multi-team initiatives.\n- Drive execution rigor: timelines, accountability, escalation, and delivery predictability.\n- Ensure programs reach production-ready quality, not just prototype or design completion.\n\nTechnical & Production Sense\n\n- Partner closely with engineering to translate technical designs into executable delivery plans.\n- Apply strong production judgment around reliability, scalability, performance, and operational readiness.\n- Identify risks early (capacity, performance, security, operational complexity) and drive mitigation plans.\n- Ensure launches include proper monitoring, alerting, rollback strategies, and operational ownership.\n\nCross-Functional Leadership\n\n- Act as the connective tissue across Engineering, Product, Infrastructure, SRE, and Go-To-Market teams.\n- Align stakeholders on priorities, tradeoffs, and sequencing in a resource-constrained environment.\n- Communicate clearly and concisely to both technical and non-technical audiences, including leadership updates.\n\nPlatform & Infrastructure Programs\n\n- Drive programs related to:\n- GPU cluster expansion and lifecycle management\n- Kubernetes platform evolution\n- AI inference and training infrastructure\n- Internal developer platforms and tooling\n- Coordinate roadmap execution across multiple regions and environments.\n\nRequired Skills\n\nProgram Management: Proven ability to drive cross-functional technical programs from design to production with strong ownership and execution discipline.\n\nProduction Sense: Strong judgment around API reliability, latency, scalability, rollout quality, and operational readiness for production AI services.\n\nAI / LLM Systems: Solid understanding of LLM and multimodal model inference workflows, including text, image, audio, or video APIs.\n\nInference & Serving: Familiarity with model serving concepts such as throughput, tail latency, batching, streaming, and cost-performance tradeoffs.\n\nAI Infrastructure: General understanding of GPU-based inference systems and their impact on performance and scalability.\n\nCommunication: Clear, structured communication with engineering, product, and leadership stakeholders.\n\nPreferred Qualifications\n\n- Experience managing technical programs related to AI products, model APIs, or inference platforms.\n- Hands-on exposure to LLM or multimodal inference systems in production environments.\n- Familiarity with AI model APIs, SDKs, or developer-facing AI platforms.\n- Strong technical foundation with the ability to reason about system tradeoffs and customer impact.\n- Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "Technology, Information and Media, IT System Data Services, and Software Development"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4400695327",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Infrastructure Capacity Sourcing Director (US)",
+      "titleZh": "Infrastructure Capacity Sourcing Director (US)",
+      "company": "GMI Cloud",
+      "location": "United States",
+      "locationZh": "United States",
+      "postedDate": "2026-04-11",
+      "postedRelative": "4 days ago",
+      "url": "https://www.linkedin.com/jobs/view/infrastructure-capacity-sourcing-director-us-at-gmi-cloud-4400695327?position=18&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=mgJvWo7PmPVO3lwcT%2FjHdQ%3D%3D",
+      "jdEn": "About the job\n\nAbout GMI Cloud:\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nKey Responsibilities:\n\n- US Sourcing Strategy: Develop and execute a comprehensive US data center sourcing strategy aligned with GMI Cloud's global rapid expansion plans and long-term AI infrastructure roadmap, with a strong focus on US markets.\n\n- Market Intelligence & Analysis: Conduct in-depth market research and analysis on global data center supply, demand, pricing trends, regulatory landscapes, and emerging technologies, providing critical insights into both existing inventory and future growth opportunities\n\n- Relationship Building & Network Leverage: Proactively cultivate and leverage a strong personal network within the data center, real estate, and colocation industries, particularly across the US territory, to identify strategic opportunities.\n\n- Deal Negotiation & Execution: Lead complex negotiations for data center leases, colocation agreements, power procurement, and connectivity services, ensuring favorable terms, cost-effectiveness, and alignment with technical requirements.\n\n- Vendor Management: Establish and manage strategic relationships with key data center operators, real estate developers, and infrastructure service providers globally.\n\n- Cross-functional Collaboration: Partner closely with engineering, legal, finance, and operations teams to translate technical requirements into sourcing specifications and ensure seamless project delivery from site selection to operational readiness.\n\n- Risk Management: Identify and mitigate risks associated with data center sourcing, including supply chain disruptions, geopolitical factors, and compliance issues.\n\n- Process Optimization: Develop and implement scalable sourcing processes, tools, and best practices to improve efficiency and accelerate global expansion.\n\nQualifications:\n\n- 8+ years of progressive experience in global data center sourcing, real estate, or infrastructure procurement within the technology, cloud, or telecommunications sectors.\n\n- Demonstrated expertise and a strong personal network within the data center and real estate ecosystem, especially in the US region\n\n- Led data center procurement projects from greenfield development to completion.\n- Profound insights into data center market dynamics, including understanding of existing inventory, planned expansions, power availability, and connectivity trends.\n\n- Exceptional negotiation skills with a proven track record of successfully closing complex, high-value infrastructure deals.\n\n- Solid understanding of data center infrastructure (power, cooling, connectivity, security) and relevant technical specifications.\n\n- Experience managing projects across diverse geographies and cultures.\n\n- Strong analytical skills, capable of performing detailed cost analysis, financial modeling, and market assessments.\n\n- Excellent communication, presentation, and interpersonal skills, with the ability to influence stakeholders at all levels.\n\n- Ability to thrive in a fast-paced, ambiguous, and hyper-growth startup environment.\n\nPreferred Qualifications:\n\n- Experience with hyperscale cloud providers or large-scale AI/HPC infrastructure companies.\n- Familiarity with international regulatory and compliance frameworks related to data center operations.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Supply Chain",
+        "Industries": "IT Services and IT Consulting, IT System Design Services, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4394337271",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Finance Manager",
+      "titleZh": "Senior Finance Manager",
+      "company": "GMI Cloud",
+      "location": "Hong Kong, Hong Kong SAR",
+      "locationZh": "Hong Kong, Hong Kong SAR",
+      "postedDate": "2026-04-01",
+      "postedRelative": "2 weeks ago",
+      "url": "https://hk.linkedin.com/jobs/view/senior-finance-manager-at-gmi-cloud-4394337271?position=19&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=4rsyKO4hsd%2BSD8uvNIWazg%3D%3D",
+      "jdEn": "Responsibilities:\n\n- Manage all financial accounting and reporting functions\n- Handle daily accounting operations, including accounts receivable and payable, staff reimbursements, review journal entries\n- Review month-end closing, reconciliation and supporting schedules\n- Prepare group consolidated financial statements including statements of cash flows independently and ensure the compliance with regulatory requirements\n- Prepare entries and schedules for leases, equity-based compensation, etc. independently\n- Support budgeting, forecasting and financial analysis\n- Assist in streamlining accounting processes and strengthening internal controls\n- Liaise with external auditors for preparation of annual audit\n- Perform ad hoc projects and special assignments\n\nQualifications:\n\n- Degree in Accounting, Finance, or related disciplines\n- Qualified accountant with related professional accounting qualifications such as HKICPA / ACCA / CPAA\n- Minimum of 10 years of relevant experience in finance or accounting, including both Big 4 audit experience and commercial experience, in which at least 5 years in managerial level\n\nRequired Skills:\n\n- Solid technical skills and experience on GAAP and IFRS including leases and equity-based compensation\n- Proficient in written & spoken English, Cantonese and Mandarin\n- Proficiency in Excel skills\n- Familiarity with QuickBooks & NetSuite (accounting software) is preferred but not mandatory\n- Flexible mindset, detail-oriented, self-driven, strong sense of responsibility, able to work under pressure and work independently\n- Good interpersonal skills and team player\n- Immediate available is preferred\n- Candidate with less experience will be considered as Finance Manager",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Accounting/Auditing",
+        "Industries": "IT System Data Services, IT System Installation and Disposal, and IT System Custom Software Development"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4401740325",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Technical Program Manager",
+      "titleZh": "Senior Technical Program Manager",
+      "company": "GMI Cloud",
+      "location": "United States",
+      "locationZh": "United States",
+      "postedDate": "2026-04-14",
+      "postedRelative": "20 hours ago",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-program-manager-at-gmi-cloud-4401740325?position=20&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=b1wp9sRJ06WLNLeE%2FukcVg%3D%3D",
+      "jdEn": "About the Company\n\nGMI Cloud is building next-generation AI infrastructure designed for large-scale GPU training and inference workloads. Our platform supports high-density GPU clusters deployed in modern data centers across multiple regions.\n\nAbout the Role\n\nWe are looking for a Sr.Technical Program Manager (TPM) to drive the deployment and delivery of GPU cluster infrastructure. This role will work at the intersection of AI hardware platforms, high-performance networking, and data center infrastructure, coordinating across solution architects, engineering teams, vendors, and contractors to deliver production-ready AI clusters.\n\nResponsibilities\n\nGPU Cluster Deployment\n\n- Lead the end-to-end deployment of AI GPU clusters, from infrastructure planning through production launch.\n- Drive coordination across Infrastructure Solution Architects, network engineers, hardware vendors, and data center teams.\n- Manage delivery timelines covering hardware deployment, network integration, cluster bring-up, and production readiness.\n\nInfrastructure Architecture Collaboration\n\n- Work closely with Infrastructure Solution Architects (SA) to define:\n- GPU server platform selection\n- Network architecture for distributed GPU clusters\n- Storage integration and cluster infrastructure design\n- Support development of the cluster Bill of Materials (BOM) including compute, networking, storage, and supporting infrastructure components.\n- Ensure architecture decisions align with data center constraints such as power density, cooling capacity, and rack layout.\n\nHPC System Integration\n\n- Drive system integration for large-scale GPU clusters, including:\n- Rack elevation planning\n- GPU server deployment and configuration\n- High-speed network topology implementation\n- Power and cooling readiness\n- Ensure deployments align with vendor reference architectures and validated cluster designs.\n\nContractor & Field Deployment Management\n\n- Work closely with General Contractors (GC) and system integrators to manage on-site infrastructure implementation.\n- Lead contractor onboarding, including SOW development, scope definition, and delivery milestone alignment.\n- Coordinate and oversee field deployment activities such as:\n- Structured cabling installation\n- Rack installation and equipment mounting\n- Network and power connectivity preparation\n- Hardware staging and deployment logistics\n\nCluster Validation & Performance Testing\n\n- Coordinate cluster bring-up and validation activities including:\n- Single-node GPU validation\n- Multi-node cluster deployment\n- GPU interconnect validation (P2P, RDMA)\n- Drive cluster benchmarking, stress testing, and performance verification before production release.\n\nOperational Readiness\n\n- Ensure deployed GPU clusters are fully ready for production workloads by driving:\n- Hardware and network validation\n- Monitoring and telemetry integration\n- Operational documentation and runbooks\n- Handover to operations teams\n\nQualifications\n\n- 5+ years experience in Technical Program Management, Infrastructure Program Management, or HPC infrastructure delivery\n- Experience with GPU cluster deployments or high-performance computing environments\n- Familiarity with GPU server architecture and distributed computing infrastructure\n- Experience working with Infrastructure Solution Architects to define system architecture and hardware BOM\n- Experience managing data center hardware deployments and system integration\n- Ability to coordinate multi-vendor infrastructure projects across regions\n\nRequired Skills\n\n- Experience deploying large-scale AI infrastructure or GPU clusters\n- Familiarity with:\n- InfiniBand / RoCE / high-speed Ethernet networking\n- GPU interconnect validation (P2P / RDMA)\n- Rack elevation and high-density rack deployment\n- Experience with cluster validation and performance benchmarking\n- Background as Systems Engineer, HPC Engineer, or Infrastructure Architect\n- Experience working in AI infrastructure, cloud infrastructure, or hyperscale data centers\n\nPreferred Skills\n\n- Experience deploying liquid-cooled GPU clusters or high-power racks\n- Experience working with NVIDIA AI infrastructure platforms\n- Familiarity with AI training environments and distributed workloads",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Engineering and Information Technology",
+        "Industries": "IT System Data Services, IT Services and IT Consulting, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4381955704",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Technical Program Manager – Data Center Services & Vendor Management",
+      "titleZh": "Technical Program Manager – Data Center Services & Vendor Management",
+      "company": "GMI Cloud",
+      "location": "APAC",
+      "locationZh": "APAC",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/technical-program-manager-%E2%80%93-data-center-services-vendor-management-at-gmi-cloud-4381955704?position=21&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=RWzUyjrmYzl6VY3%2FOacG4g%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a next-generation AI cloud infrastructure provider delivering large-scale GPU and HPC data center solutions for enterprise and hyperscale customers worldwide. As an NVIDIA Reference Platform Cloud Partner, GMI Cloud designs, builds, and operates advanced data centers optimized for AI workloads, integrating cutting-edge hardware, networking, power, and cooling technologies across global sites.\n\nAbout the Role\n\nGMI Cloud is seeking an experienced Technical Program Manager (TPM) to lead data center service vendor sourcing, onboarding, and lifecycle management across commissioning, system integration, and operational services.\n\nThis role will be responsible for building and managing a high-quality vendor ecosystem, aligning technical scope, commercial terms, and operational execution, and ensuring vendor performance throughout the project and operations lifecycle. The TPM will also play a key role in establishing scalable, system-driven processes (e.g., ERP, vendor management workflows) and supporting finance operations, vendor closeout, billing, and audits.\n\nWhat You'll Do\n\nVendor Sourcing & Strategy\n\n- Lead sourcing and evaluation of data center commissioning vendors, system integrators, and operations/service providers (e.g., MEP, network, controls, DC operations support).\n- Develop vendor sourcing strategies aligned with technical architecture, regional requirements, schedule, and cost targets.\n- Drive RFPs, technical evaluations, and vendor selection in collaboration with Engineering, Operations, Procurement, and Finance.\n\nTechnical & Commercial Alignment\n\n- Align technical scope, deliverables, acceptance criteria, and timelines with commercial terms, pricing models, and contract structures.\n- Ensure vendor proposals and contracts accurately reflect data center design, commissioning methodology, and operational requirements.\n- Act as the bridge between engineering depth and business execution, ensuring no gaps between scope and cost.\n\nVendor Onboarding & Lifecycle Management\n\n- Own vendor onboarding processes, including compliance, system access, documentation, and readiness reviews.\n- Establish and maintain vendor performance tracking, including KPIs, SLAs, and operational metrics.\n- Lead Quarterly Business Reviews (QBRs) with key vendors to review performance, risks, improvements, and future capacity planning.\n\nProgram Execution & Risk Management\n\n- Track vendor execution across commissioning and operations phases, identifying risks, dependencies, and mitigation plans.\n- Drive issue resolution for vendor-related technical, schedule, or quality challenges.\n- Ensure smooth handoffs from commissioning to steady-state operations.\n\nSystems & Process Enablement\n\n- Partner with internal teams to design and improve systemized vendor management workflows, including ERP integration.\n- Define standardized processes for vendor sourcing, onboarding, performance tracking, and closeout.\n- Support scalable growth by reducing manual processes and improving data visibility and governance.\n\nFinance Operations & Audit Support\n\n- Ensure proper vendor closeout, including scope completion, acceptance sign-off, and final documentation.\n- Partner with Finance to support vendor billing, invoicing, and payment workflows.\n- Assist with financial audits and compliance reviews, ensuring vendor records, contracts, and approvals are accurate and audit-ready\n\nQualifications\n\n- Bachelor's degree in Engineering, Construction Management, Business, or a related field.\n- 5+ years of experience in Technical Program Management, vendor management, or data center infrastructure delivery.\n- Strong experience working with data center commissioning, system integration, or data center operations vendors.\n- Proven ability to align technical requirements with commercial and contractual terms.\n- Experience managing vendors through performance reviews and QBRs.\n- Solid understanding of data center delivery lifecycle, including commissioning, handover, and operations.\n- Strong organizational, communication, and cross-functional leadership skills.\n\nPreferred Qualifications\n\n- Experience supporting AI / HPC data centers or large-scale infrastructure programs.\n- Familiarity with ERP systems, contract lifecycle management tools, or vendor management platforms.\n- Experience supporting finance operations, vendor billing, or audit processes.\n- Knowledge of commissioning standards, MEP systems, and data center operational best practices.\n- Experience working across global or multi-regional data center projects.\n\nWhat We Offer\n\n- Competitive compensation aligned with experience and impact\n- Opportunity to work on cutting-edge AI data center infrastructure\n- High visibility role with cross-functional and executive exposure\n- A fast-growing environment where you can shape processes, systems, and vendor strategy from the ground up",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Project Management",
+        "Industries": "IT Services and IT Consulting, IT System Data Services, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4370520356",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Technical Program Manager – Data Center Services & Vendor Management",
+      "titleZh": "Technical Program Manager – Data Center Services & Vendor Management",
+      "company": "GMI Cloud",
+      "location": "HONG KONG SAR, China",
+      "locationZh": "HONG KONG SAR, China",
+      "postedDate": "2026-02-09",
+      "postedRelative": "2 months ago",
+      "url": "https://cn.linkedin.com/jobs/view/technical-program-manager-%E2%80%93-data-center-services-vendor-management-at-gmi-cloud-4370520356?position=22&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=NFB9HkixdIiv9w3e2NAULw%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a next-generation AI cloud infrastructure provider delivering large-scale GPU and HPC data center solutions for enterprise and hyperscale customers worldwide. As an NVIDIA Reference Platform Cloud Partner, GMI Cloud designs, builds, and operates advanced data centers optimized for AI workloads, integrating cutting-edge hardware, networking, power, and cooling technologies across global sites.\n\nAbout the Role\n\nGMI Cloud is seeking an experienced Technical Program Manager (TPM) to lead data center service vendor sourcing, onboarding, and lifecycle management across commissioning, system integration, and operational services.\n\nThis role will be responsible for building and managing a high-quality vendor ecosystem, aligning technical scope, commercial terms, and operational execution, and ensuring vendor performance throughout the project and operations lifecycle. The TPM will also play a key role in establishing scalable, system-driven processes (e.g., ERP, vendor management workflows) and supporting finance operations, vendor closeout, billing, and audits.\n\nWhat You'll Do\n\nVendor Sourcing & Strategy\n\n- Lead sourcing and evaluation of data center commissioning vendors, system integrators, and operations/service providers (e.g., MEP, network, controls, DC operations support).\n- Develop vendor sourcing strategies aligned with technical architecture, regional requirements, schedule, and cost targets.\n- Drive RFPs, technical evaluations, and vendor selection in collaboration with Engineering, Operations, Procurement, and Finance.\n\nTechnical & Commercial Alignment\n\n- Align technical scope, deliverables, acceptance criteria, and timelines with commercial terms, pricing models, and contract structures.\n- Ensure vendor proposals and contracts accurately reflect data center design, commissioning methodology, and operational requirements.\n- Act as the bridge between engineering depth and business execution, ensuring no gaps between scope and cost.\n\nVendor Onboarding & Lifecycle Management\n\n- Own vendor onboarding processes, including compliance, system access, documentation, and readiness reviews.\n- Establish and maintain vendor performance tracking, including KPIs, SLAs, and operational metrics.\n- Lead Quarterly Business Reviews (QBRs) with key vendors to review performance, risks, improvements, and future capacity planning.\n\nProgram Execution & Risk Management\n\n- Track vendor execution across commissioning and operations phases, identifying risks, dependencies, and mitigation plans.\n- Drive issue resolution for vendor-related technical, schedule, or quality challenges.\n- Ensure smooth handoffs from commissioning to steady-state operations.\n\nSystems & Process Enablement\n\n- Partner with internal teams to design and improve systemized vendor management workflows, including ERP integration.\n- Define standardized processes for vendor sourcing, onboarding, performance tracking, and closeout.\n- Support scalable growth by reducing manual processes and improving data visibility and governance.\n\nFinance Operations & Audit Support\n\n- Ensure proper vendor closeout, including scope completion, acceptance sign-off, and final documentation.\n- Partner with Finance to support vendor billing, invoicing, and payment workflows.\n- Assist with financial audits and compliance reviews, ensuring vendor records, contracts, and approvals are accurate and audit-ready\n\nQualifications\n\n- Bachelor's degree in Engineering, Construction Management, Business, or a related field.\n- 5+ years of experience in Technical Program Management, vendor management, or data center infrastructure delivery.\n- Strong experience working with data center commissioning, system integration, or data center operations vendors.\n- Proven ability to align technical requirements with commercial and contractual terms.\n- Experience managing vendors through performance reviews and QBRs.\n- Solid understanding of data center delivery lifecycle, including commissioning, handover, and operations.\n- Strong organizational, communication, and cross-functional leadership skills.\n\nPreferred Qualifications\n\n- Experience supporting AI / HPC data centers or large-scale infrastructure programs.\n- Familiarity with ERP systems, contract lifecycle management tools, or vendor management platforms.\n- Experience supporting finance operations, vendor billing, or audit processes.\n- Knowledge of commissioning standards, MEP systems, and data center operational best practices.\n- Experience working across global or multi-regional data center projects.\n\nWhat We Offer\n\n- Competitive compensation aligned with experience and impact\n- Opportunity to work on cutting-edge AI data center infrastructure\n- High visibility role with cross-functional and executive exposure\n- A fast-growing environment where you can shape processes, systems, and vendor strategy from the ground up",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Project Management",
+        "Industries": "IT Services and IT Consulting and IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4390663825",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Accountant",
+      "titleZh": "Senior Accountant",
+      "company": "GMI Cloud",
+      "location": "Hong Kong, Hong Kong SAR",
+      "locationZh": "Hong Kong, Hong Kong SAR",
+      "postedDate": "2026-03-26",
+      "postedRelative": "2 weeks ago",
+      "url": "https://hk.linkedin.com/jobs/view/senior-accountant-at-gmi-cloud-4390663825?position=23&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=5FOwykTT9FBoVIr5Qzth1g%3D%3D",
+      "jdEn": "About GMI Cloud:\n\nGMI Cloud is a rapidly expanding AI cloud infrastructure company, delivering cutting-edge solutions that power the next generation of artificial intelligence. We are seeking a highly driven and tenacious Sourcing Manager to play a critical role in optimizing our supply chain, securing key resources, and fueling our explosive growth. This is a high-impact opportunity for a procurement leader who thrives in a fast-paced environment and isn't afraid to challenge the status quo.\n\nJob responsibilities:\n\n- Handle daily accounting operations, including accounts receivable and payable, staff reimbursements, review journal entries\n- Prepare and review month-end closing, reconciliation and supporting schedules\n- Prepare group consolidation financial statements, supporting schedules and management reports\n- Support budgeting, forecasting and financial analysis\n- Assist in streamlining accounting processes and strengthening internal controls\n- Liaise with external auditors for preparation of annual audit\n- Perform ad hoc projects and special assignments\n\nRequirements:\n\n- Degree in Accounting, Finance, or related disciplines\n- Qualified accountant with related professional accounting qualifications such as HKICPA / ACCA / CPAA\n- Minimum 3 years of Big 4 audit experience and 3 years of relevant accounting commercial experience\n- Proficient in written & spoken English, Cantonese and Mandarin\n- Proficiency in Excel skills\n- Familiarity with QuickBooks (accounting software) is preferred but not mandatory\n- Experience with both IFRS and USGAAP is preferred\n- Detail-oriented, self-driven, strong sense of responsibility, able to meet tight deadlines and work independently\n- Good interpersonal skills and team player\n- Immediate available is preferred\n- Candidate with less experience will be considered as Accountant\n\nWe offer an exciting career opportunity and competitive remuneration to the successful candidate.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Accounting/Auditing and Finance",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4393516686",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Machine Learning Engineer (LLM inference)",
+      "titleZh": "Machine Learning Engineer (LLM inference)",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-llm-inference-at-gmi-cloud-4393516686?position=24&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=i0g0F8XQrmSMbODPYu%2BU5w%3D%3D",
+      "jdEn": "MLE (LLM inference)\n\nAbout US\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\n\n\nAbout this role\n\nWe are hiring a Machine Learning Engineer, LLM Optimization to build a world-leading inference optimization team and make GMI Cloud the industry benchmark for LLM serving performance.\n\nThis role is for engineers who want to work at the frontier of AI systems. You will drive the research, validation, and productionization of the most advanced inference optimization techniques, and turn them into real competitive advantage across GMI's inference platform.\n\nOur goal is to make GMI the company that leads the industry in how fast we discover, evaluate, combine, and operationalize the best optimization strategies for real customer workloads. That means not only adopting the latest advances, but also defining best practices, developing our own optimization methodologies, and building the internal framework that keeps GMI ahead of the curve.\n\nYou will focus on B200-first optimization, with support for H200 evolution, across core domains including quantization, speculative decoding, KV cache and memory management, prefill/decode disaggregation, and system-level inference optimization. You will work closely with platform and infrastructure teams to transform cutting-edge ideas into measurable gains in latency, throughput, cost efficiency, and production scalability.\n\nKey Responsibilities\n\n- Drive frontier research and engineering in LLM inference optimization, building GMI's industry-leading capabilities in performance, efficiency, and scalability.\n- Develop next-generation optimization strategies for large-scale LLM serving across model execution, runtime systems, and production inference platforms.\n- Advance state-of-the-art techniques in quantization and precision optimization to improve throughput, latency, memory efficiency, and cost-performance across modern GPU systems.\n- Push the frontier of speculative decoding and related acceleration methods, including both systems and model-level approaches for faster generation.\n- Lead innovation in KV cache and memory optimization, improving long-context serving efficiency, memory utilization, and multi-tenant performance.\n- Develop advanced architectures for prefill/decode disaggregation and other distributed inference optimization strategies for large-scale production environments.\n- Drive system-level optimization across scheduling, batching, routing, gateway orchestration, adapter serving, and end-to-end inference efficiency.\n- Build scalable optimization frameworks, performance methodologies, and engineering practices that allow GMI to stay ahead of the industry as models, hardware, and serving patterns evolve.\n- Turn cutting-edge optimization ideas into production-ready capabilities that improve real-world customer workloads across latency, throughput, quality, and cost.\n- Collaborate closely with platform, infrastructure, and product teams to make inference optimization a core technical advantage of GMI Cloud.\n\nRequired Skills\n\n- Strong hands-on experience with LLM inference systems and performance optimization.\n- Solid understanding of inference metrics and tradeoffs, including TTFT, ITL, throughput, goodput, tail latency, GPU utilization, memory efficiency, and quality/cost tradeoffs.\n- Experience with one or more modern serving stacks such as SGLang, vLLM, TensorRT-LLM, Triton, or similar systems.\n- Deep familiarity with GPU-based inference, model serving architecture, and production bottlenecks around compute, memory bandwidth, KV-cache behavior, and scheduling.\n- Strong experimentation skills: able to design benchmarks, interpret results, debug regressions, and produce actionable conclusions rather than isolated microbenchmark wins.\n- Comfortable working across research-style validation and production engineering, with a bias toward measurable impact in real customer scenarios.\n- Strong coding and systems skills in Python, with practical experience in profiling, observability, and performance debugging.\n- Clear communication skills and the ability to explain technical tradeoffs to both engineers and cross-functional stakeholders.\n\nPreferred Qualifications\n\n- 1+ years of hands-on experience in LLM inference optimization, ML systems optimization, or closely related areas.\n- Experience working on optimization for large-scale model serving, such as latency reduction, throughput improvement, memory efficiency, or cost-performance tuning.\n- Familiarity with one or more major areas of inference optimization, including quantization, speculative decoding, KV cache optimization, prefill/decode disaggregation, or system-level serving optimization.\n- Experience with modern LLM serving stacks, GPU inference systems, or production ML infrastructure is a strong plus.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Entry level",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT System Data Services, Software Development, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4398613275",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "IDC Facility Engineer",
+      "titleZh": "IDC Facility Engineer",
+      "company": "GMI Cloud",
+      "location": "United States",
+      "locationZh": "United States",
+      "postedDate": "2026-04-08",
+      "postedRelative": "6 days ago",
+      "url": "https://www.linkedin.com/jobs/view/idc-facility-engineer-at-gmi-cloud-4398613275?position=25&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=yL7vHLs4o2lS58ASopnhaw%3D%3D",
+      "jdEn": "Role Overview\n\nWe are seeking a Data Center Facility Engineer to join the GMI Global Infrastructure Team to oversee the operation and maintenance of the mechanical, electrical and plumbing (MEP) infrastructure for GMI global data centers. The ideal candidate will possess a strong technical background, critical thinking skills, and a commitment to safety protocols.\n\nPreferred Location: USA, Taiwan.\n\nResponsibilities\n\n- Oversee the operation, maintenance, and repair of MEP systems, including HVAC, power distribution, and liquid cooling systems.\n- Monitor performance data to optimize energy efficiency and system reliability.\n- Develop and implement preventive maintenance programs for MEP systems to ensure optimal performance.\n- Perform daily operational assessments of all mechanical and electrical equipment, including Cooling Distribution Units (CDUs), through scheduled inspections and logging of critical parameters, such as temperatures, voltages, and currents.\n- Diagnose and troubleshoot MEP system failures, coordinating repairs with relevant vendors and modifications as necessary.\n- Supervise and coordinate the activities of contractors engaged in servicing or preventive maintenance tasks to ensure compliance with established standards and protocols.\n- Ensure all MEP systems comply with local codes, regulations, and industry standards.\n- Maintain accurate records of maintenance activities, system changes, and repairs, and prepare reports for management.\n- Work closely with other engineering teams to support facility improvements and system upgrades.\n- Assist in the planning and execution of facility projects to enhance infrastructure and efficiency within the data center.\n- Promote and enforce safety standards in all MEP operations and maintenance activities.\n\nQualifications\n\n- Bachelor's degree in Mechanical Engineering, Electrical Engineering, or related field.\n- Minimum of 5 years' experience in facility engineering, preferably within data centers or critical facilities.\n- Strong knowledge of mechanical, electrical, and plumbing systems.\n- Familiarity with electrical and mechanical equipment, such as Uninterruptible Power Supplies (UPS), circuit breakers, busway, chillers, heating, ventilation, and air conditioning (HVAC) systems, exhaust fans, Cooling Distribution Units (CDUs), etc.\n- Proficiency in building management systems (BMS) and related monitoring tools.\n- Excellent problem-solving skills and the ability to work under pressure.\n- Strong communication skills to collaborate effectively with team members and stakeholders.\n- Experience with energy management systems and sustainability practices.\n- Familiarity with industry regulations.\n- Ability to read and interpret technical documents and blueprints.\n- Require on-call status and occasional overtime.\n- Meeting every qualification is not required—if you're excited about this role, we'd love to hear from you. We believe diverse perspectives and experiences strengthen our team.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Entry level",
+        "Employment type": "Full-time",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4390681001",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Infrastructure Capacity Sourcing Manager (US)",
+      "titleZh": "Infrastructure Capacity Sourcing Manager (US)",
+      "company": "GMI Cloud",
+      "location": "United States",
+      "locationZh": "United States",
+      "postedDate": "2026-03-26",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/infrastructure-capacity-sourcing-manager-us-at-gmi-cloud-4390681001?position=26&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=PJqb7krz3nnMIwAMRdDN2g%3D%3D",
+      "jdEn": "About the job\n\nAbout GMI Cloud:\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nKey Responsibilities:\n\n- Global Sourcing Strategy: Develop and execute a comprehensive global data center sourcing strategy aligned with GMI Cloud's rapid expansion plans and long-term AI infrastructure roadmap, with a strong focus on US markets.\n- Market Intelligence & Analysis: Conduct in-depth market research and analysis on global data center supply, demand, pricing trends, regulatory landscapes, and emerging technologies, providing critical insights into both existing inventory and future growth opportunities.\n- Relationship Building & Network Leverage: Proactively cultivate and leverage a strong personal network within the data center, real estate, and colocation industries, particularly across the US territory, to identify strategic opportunities.\n- Deal Negotiation & Execution: Lead complex negotiations for data center leases, colocation agreements, power procurement, and connectivity services, ensuring favorable terms, cost-effectiveness, and alignment with technical requirements.\n- Vendor Management: Establish and manage strategic relationships with key data center operators, real estate developers, and infrastructure service providers globally.\n- Cross-functional Collaboration: Partner closely with engineering, legal, finance, and operations teams to translate technical requirements into sourcing specifications and ensure seamless project delivery from site selection to operational readiness.\n- Risk Management: Identify and mitigate risks associated with data center sourcing, including supply chain disruptions, geopolitical factors, and compliance issues.\n- Process Optimization: Develop and implement scalable sourcing processes, tools, and best practices to improve efficiency and accelerate global expansion.\n\nQualifications:\n\n- 8+ years of progressive experience in global data center sourcing, real estate, or infrastructure procurement within the technology, cloud, or telecommunications sectors.\n- Demonstrated expertise and a strong personal network within the data center and real estate ecosystem, especially in the US region.\n- Led data center procurement projects from greenfield development to completion.\n- Profound insights into data center market dynamics, including understanding of existing inventory, planned expansions, power availability, and connectivity trends.\n- Exceptional negotiation skills with a proven track record of successfully closing complex, high-value infrastructure deals.\n- Solid understanding of data center infrastructure (power, cooling, connectivity, security) and relevant technical specifications.\n- Experience managing projects across diverse geographies and cultures.\n- Strong analytical skills, capable of performing detailed cost analysis, financial modeling, and market assessments.\n- Excellent communication, presentation, and interpersonal skills, with the ability to influence stakeholders at all levels.\n- Ability to thrive in a fast-paced, ambiguous, and hyper-growth startup environment.\n\nPreferred Qualifications:\n\n- Experience with hyperscale cloud providers or large-scale AI/HPC infrastructure companies.\n- Familiarity with international regulatory and compliance frameworks related to data center operations.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Supply Chain",
+        "Industries": "IT Services and IT Consulting, IT System Design Services, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4387803527",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior PMO Manager (Liquid-Cooled AI Data Centers)",
+      "titleZh": "Senior PMO Manager (Liquid-Cooled AI Data Centers)",
+      "company": "GMI Cloud",
+      "location": "APJ",
+      "locationZh": "APJ",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/senior-pmo-manager-liquid-cooled-ai-data-centers-at-gmi-cloud-4387803527?position=27&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=BRkh5IDfhviEF7kb7T%2FVNQ%3D%3D",
+      "jdEn": "Reporting to: COO\n\nLocation: Singapore/ Thailand / Malaysia / Hongkong / Taiwan\n\nWith the explosive growth in demand for AI compute, GMI Cloud, as a core ecosystem partner for the world's leading GPU silicon manufacturers, is spearheading the construction of next-generation, large-scale liquid-cooled AI Data Centers. These projects involve ultra-high-density thermal architectures, high-speed interconnect networks, and extreme energy efficiency management.\n\nWe are seeking a Senior PMO Manager with exceptional cross-functional orchestration and client expectation management skills. You will serve as the \"central nervous system\" of the project, not only coordinating internal R&D and engineering teams to overcome technical hurdles but also acting as the sole point of contact for clients and General/Sub-contractors to ensure the timely, high-quality delivery of liquid-cooled GPU clusters.\n\n[Key Responsibilities]\n\n1. External Liaison & Vendor Management\n\n- Contractor Management: Lead the coordination of all subcontractors across liquid cooling systems (Cold Plate/Immersion), power distribution, HVAC, and ELV (Extra-Low Voltage). Audit technical disclosures and implementation plans for critical milestones (e.g., coolant piping layout, high-power rack-level interconnects).\n- Resource Integration: Ensure seamless synchronization between core component suppliers (Coolants, UQDs, Manifolds) and on-site construction schedules.\n- Compliance & Standards: Oversee strict adherence to the latest thermal design guides and facility construction standards issued by chip manufacturers to ensure PUE (Power Usage Effectiveness) targets are met.\n\n2. Internal Synergy & Technical Execution\n\n- Cross-Functional Alignment: Bridge internal Architects, Liquid Cooling Engineers, Network Engineers, and Infrastructure teams to solve \"Thermal-Power-Compute\" matching issues tailored to next-gen high-TDP AI chip platforms.\n- Schedule Control: Develop detailed WBS (Work Breakdown Structures) to drive the full lifecycle—from equipment racking and coolant pressure testing to high-speed network commissioning.\n- Risk Preemption: Identify risks such as \"leaks, spills, or drips\" in liquid systems and power bottlenecks in high-density racks; develop robust contingency plans.\n\n3. Client Alignment & Expectation Management\n\n- Reporting Mechanism: Establish a standardized \"Client Weekly Review\" system using data-driven dashboards to visualize project progress (Gantt charts), critical milestones, and risk logs.\n- Expectation Correction: Proactively manage client expectations regarding performance, delivery timelines, and OpEx for the latest AI clusters. Communicate buffer periods in advance for technical complexities (e.g., liquid cooling debugging cycles).\n- Acceptance & Handover: Organize joint commissioning of liquid cooling systems and full-load stress tests; collaborate with clients for final project sign-off.\n\n[Requirements]\n\n1. Mandatory Thresholds\n\n- Industry Background: 5+ years of experience in large-scale Data Center Infrastructure (DCI) project management, with at least 2 years in Liquid-Cooled DC (Cold Plate preferred) project delivery.\n- Technical Literacy: Familiarity with the product roadmaps of major AI chipmakers; foundational knowledge of next-gen high-power GPU architectures, rack form factors, and power density.\n- Certifications: PMP certified; CDCP (Certified Data Center Professional) or specialized Liquid Cooling training certificates are highly preferred.\n\n2. Core Competencies\n\n- Cross-Cultural Communication: Ability to pivot communication styles seamlessly between technical (Engineers), commercial (Subcontractors), and strategic (Executive Clients) levels.\n- Expectation Management: Exceptional \"Upward Management\" and \"Client Expectation Alignment\" skills, maintaining high client satisfaction even during project roadblocks.\n- Crisis Response: On-site command capability for emergencies such as liquid system leaks or power failures.\n\n3. Preferred Qualifications\n\n- Experience delivering AI compute cluster solutions for top-tier chip manufacturers or their core ecosystem partners.\n- Professional qualifications such as Grade 1 Constructor (Electromechanical) or Agile certifications.\n\n[What We Offer]\n\n- Frontier Vision: Be at the forefront of global compute infrastructure, participating in the deployment of revolutionary AI platforms.\n- Ecosystem Access: As a core partner of top-tier chipmakers, gain direct access to the latest liquid cooling whitepapers and expert support.\n- [Competitive Compensation, Project Bonuses, Internal Training on Compute Resources, etc.]\n\n[Key Performance Indicators (KPIs)]\n\n- Project Punctuality: Ensure AI clusters go live within the predefined SLA (Service Level Agreement).\n- Quality Compliance: Zero leakage in liquid cooling systems; PUE meets design specifications.\n- Client Satisfaction: Weekly meeting satisfaction score > 9/10.\n- Change Control: Effectively manage Scope Creep; cost increases due to client changes must remain within the budget buffer.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Director",
+        "Employment type": "Full-time",
+        "Job function": "Project Management",
+        "Industries": "IT System Data Services, IT Services and IT Consulting, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4397474416",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Machine Learning Engineer (LLM inference)",
+      "titleZh": "Machine Learning Engineer (LLM inference)",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-04-04",
+      "postedRelative": "1 week ago",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-llm-inference-at-gmi-cloud-4397474416?position=28&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=55AryUM43sZvUQMOdDcTLQ%3D%3D",
+      "jdEn": "About this role\n\nWe are hiring a Fullstack Engineer to build the core systems behind GMI's global inference engine and MaaS platform. This is a high-impact, high-ownership role focused on designing and scaling systems that sit at the heart of AI delivery. You will work across backend systems, distributed infrastructure, and developer-facing products to power everything from request routing and orchestration to billing, observability, and user experience.\n\nThis role is for engineers who think in systems, not components—who can design and operate high-concurrency, globally distributed platforms that serve real-world AI workloads at scale.You will help define how modern AI infrastructure is built: combining performance, reliability, and developer experience into a single cohesive platform. We are not just building APIs—we are building the operating system for AI inference at scale.\n\nKey Responsibilities\n\n- Design and evolve a globally distributed inference engine and MaaS platform, spanning API gateways, routing, orchestration, scheduling, and multi-region traffic management for high-concurrency production workloads.\n- Build end-to-end fullstack systems—including backend services, APIs, and web applications—that provide developers with seamless control, visibility, and scalability over AI workloads.\n- Architect and operate high-throughput, low-latency distributed systems with strong guarantees on reliability, fault tolerance, and graceful degradation under extreme load.\n- Develop scalable data infrastructure across databases, caching systems, and streaming pipelines to support real-time usage tracking, analytics, and system observability.\n- Design and implement robust billing, metering, quota, and payment systems that are accurate, auditable, and tightly integrated with platform usage at scale.\n- Build intelligent platform capabilities using agentic software patterns, enabling automation, adaptive system behavior, and more efficient operation of complex infrastructure.\n- Drive system-level performance optimization across concurrency control, request lifecycle, storage, and compute coordination to maximize throughput and efficiency.\n- Establish engineering standards and architectures that prioritize system stability, correctness, and long-term maintainability in a rapidly evolving AI ecosystem.\n\nRequired Skills\n\n- Strong fullstack engineering experience with deep expertise in backend and distributed system design.\n- Proven experience building and operating high-concurrency, large-scale distributed systems in production.\n- Strong understanding of system design tradeoffs across scalability, consistency, availability, and performance.\n- Hands-on experience with:\n- Backend systems (Python, Go, or similar)\n- Modern web stacks (React, Next.js, or equivalent)\n- API design (REST, gRPC, GraphQL)\n- Strong experience with databases and storage systems (PostgreSQL, MySQL, or similar), including high-scale schema design and optimization.\n- Experience with caching systems (Redis or equivalent) and performance-critical system design.\n- Familiarity with distributed system patterns such as load balancing, rate limiting, queueing, and multi-region deployment.\n- Experience building billing, metering, or payment systems in production environments.\n- Experience building or working with agentic software systems (e.g., automated workflows, tool-using systems, or LLM-powered orchestration).\n- Strong debugging, profiling, and performance optimization skills.\n- Clear communication skills and the ability to reason about complex systems end-to-end.\n\nPreferred Qualifications\n\n- Experience building infrastructure platforms, SaaS systems, or developer-facing APIs at scale.\n- Experience with Kubernetes, microservices, and cloud-native architectures.\n- Understand AI/ML infrastructure, inference systems, or LLM serving platforms.\n- Experience with observability systems (OpenTelemetry, metrics, tracing, logging).\n- Experience with real-time data systems or streaming architectures.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4385196237",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Procurement & MEP Delivery Manager – Data Center Infrastructure",
+      "titleZh": "Procurement & MEP Delivery Manager – Data Center Infrastructure",
+      "company": "GMI Cloud",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "locationZh": "Neihu District, Taipei City, Taiwan",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/procurement-mep-delivery-manager-%E2%80%93-data-center-infrastructure-at-gmi-cloud-4385196237?position=29&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=odr24XVOT2vr%2B9KYwTiu%2FQ%3D%3D",
+      "jdEn": "Key Responsibilities\n\nSupplier Management & Risk Mitigation\n\nPartner with sourcing teams to support supplier onboarding, qualification, and ongoing performance management.\n\nDevelop risk assessment frameworks to monitor financial, operational, and delivery risks across critical suppliers.\n\nDrive supplier performance improvements and ensure alignment with GMI Cloud's operational and quality standards.\n\nProcure-to-Delivery Execution\n\nOwn execution from purchase order issuance through equipment delivery and site readiness.\n\nMonitor manufacturing progress, logistics timelines, and installation readiness to ensure alignment with project schedules.\n\nManage escalations related to manufacturing delays, logistics challenges, or delivery risks.\n\nData Integrity & Operational Visibility\n\nMaintain accurate procurement and delivery data across ERP and project management systems, ensuring a reliable \"single source of truth.\"\n\nTrack key procurement and supplier performance metrics, including On-Time Delivery (OTD) and equipment quality upon site receipt.\n\nProvide regular reporting and risk updates to leadership to support timely decision-making.\n\nOperational Governance\n\nResolve day-to-day operational issues such as shipping damage, incomplete shipments, or documentation gaps while minimizing project impact.\n\nEnsure consistent adoption of procurement and project governance standards across all sites.\n\nValidate supplier milestone invoices against actual delivery progress to ensure financial accuracy.\n\nLifecycle & Post-Delivery Support\n\nSupport sites with warranty management, service agreements, and maintenance coordination.\n\nManage spare parts planning and supplier accountability for ongoing equipment performance.\n\nCapture field feedback and integrate lessons learned into future sourcing strategies and supplier engagements.\n\nAbout the Role\n\nThe Procurement & MEP Delivery Manager is responsible for the end-to-end execution of procurement operations for critical data center infrastructure equipment. You will ensure supplier performance, maintain data integrity, and resolve operational challenges across multi-million-dollar MEP assets.\n\nSuccess in this role requires strong operational discipline, supplier engagement, and the ability to manage complex supply chain execution in a fast-moving, high-growth environment.\n\nWho You Are\n\n5-10+ years of experience in procurement, supply chain, or operations supporting large-scale infrastructure, industrial, or data center projects\n\nExperience managing long-lead MEP equipment such as generators, switchgear, chillers, or transformers\n\nStrong background in supplier performance management and operational risk mitigation\n\nProven ability to build and maintain procurement reporting, metrics, and tracking systems\n\nExperience working cross-functionally with sourcing, PMO, engineering, finance, and construction teams\n\nBachelor's degree in Supply Chain, Procurement, Engineering, Business, or Construction Management\n\nPreferred\n\nExperience supporting hyperscale or AI-focused data center deployments\n\nFamiliarity with ERP systems and digital procurement tools\n\nExperience working with global or multi-region supply chains",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Supply Chain and Other",
+        "Industries": "IT System Data Services"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4386595461",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Legal Counsel/Senior Legal Counsel",
+      "titleZh": "Legal Counsel/Senior Legal Counsel",
+      "company": "GMI Cloud",
+      "location": "Hong Kong, Hong Kong SAR",
+      "locationZh": "Hong Kong, Hong Kong SAR",
+      "postedDate": "2026-03-17",
+      "postedRelative": "4 weeks ago",
+      "url": "https://hk.linkedin.com/jobs/view/legal-counsel-senior-legal-counsel-at-gmi-cloud-4386595461?position=30&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=2CXxyp%2FIVhoumRx3OMNj8Q%3D%3D",
+      "jdEn": "About GMI Cloud:\n\nGMI Cloud is a rapidly expanding AI cloud infrastructure company, delivering cutting-edge solutions that power the next generation of artificial intelligence. We are seeking a highly driven and tenacious Sourcing Manager to play a critical role in optimizing our supply chain, securing key resources, and fueling our explosive growth. This is a high-impact opportunity for a procurement leader who thrives in a fast-paced environment and isn't afraid to challenge the status quo.\n\nJob Summary:\n\nWe are seeking a detail-oriented and organized Legal Counsel to support our legal team in preparing and reviewing legal documents and ensuring compliance with regulatory requirements.\n\nKey Responsibilities:\n\nDocument Preparation, Review and Management : Create, organize, and maintain legal documents such as agreements, policies and resolutions, and ensure all records are accurate and compliant with legal standards.\n\nLegal Research : Conduct legal research using legal databases to gather relevant information and compile legal precedents.\n\nCompliance and Regulatory Support : Monitor changes in laws and regulations affecting the company and assist in implementing necessary policy changes.\n\nRequirements and Skills:\n\nEducation : Bachelor's degree or higher, preferably in law or a related field.\n\nExperience : Previous experience in law firms or legal teams of IT companies is a plus.\n\nSkills :\n\n- Proficiency in both English and Mandarin Chinese, with good verbal and written communication skills.\n- Strong ability to collaborate with colleagues and communicate effectively with external professional parties.\n- Ability to manage tasks efficiently and meet deadlines.\n- Proficiency in Microsoft Office Suite and legal research database.\n\nWhat We Offer:\n\nCompetitive salary and benefits package.\n\nOpportunities for professional growth and development.\n\nCollaborative and dynamic work environment.\n\nLocation:\n\nHong Kong\n\nIf you are a motivated and detail-oriented individual looking to contribute to a dynamic legal team, please submit your application.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Legal",
+        "Industries": "Law Practice and Law Enforcement"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4354394031",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Infra Engineer - Network Operation",
+      "titleZh": "Infra Engineer - Network Operation",
+      "company": "GMI Cloud",
+      "location": "United States",
+      "locationZh": "United States",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/infra-engineer-network-operation-at-gmi-cloud-4354394031?position=31&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=z%2F80267wEJRqpCA5WEsHIA%3D%3D",
+      "jdEn": "Role Overview\n\nWe are seeking a skilled Network Operation Engineer to join the GMI Global Infrastructure team. The ideal candidate will have hands-on experience with GPU network infrastructure and strong understanding of optical communication technologies. You will be responsible for designing, building, maintaining, monitoring, and optimizing advanced network systems to ensure high performance and reliability, supporting our global data centers and AI/ML workloads.\n\nResponsibilities\n\n- Plan, design, and implement network infrastructure for GMI global data center, including WAN, Core Network, Data Center Network, Firewalls, Load Balancers, DNS, VPN, etc.\n- Build high-performance network solutions to support AI/ML workloads, encompassing Compute, Storage, Inband, Management, and Out-of-Band (OOB) network fabric using Infiniband and Ethernet RDMA RoCEv2 technologies.\n- Monitor and troubleshoot GPU-based network systems to ensure optimal performance\n- Manage and configure optical transceivers and related components\n- Collaborate with cross-functional teams and stakeholders to understand business requirements related to networking\n- Identify suitable network providers, vendors, and solutions to meet organizational needs\n- Ensure high performance, scalability, and 99.9%+ availability of network services\n- Implement network security measures and perform system upgrades\n- Document network configurations, issues, and resolution procedures\n- Conduct root cause analysis and resolve network outages efficiently\n- Keep abreast of advancements in optical communications, GPU networking, and data center technologies\n- Regional/international travel to GMI data center locations.\n\nQualifications\n\n- Bachelor's degree in Compute Science or related field.\n- Over 5 years of experience as senior network engineer or related position.\n- Extensive experience in network deployment and operational support.\n- Strong knowledge in network administration and architecture.\n- Strong knowledge in network security, DDOS, IDS, etc.\n- Familiar with various routers, switches, firewalls, load balancer, DNS, VPN configuration implementation.\n- Familiar with network monitoring tools and protocols.\n- Familiar with optical networking, including fibers, transceivers and optics.\n- Experience with high-performance data center networks, HPC or AI environments.\n- Excellent problem-solving, troubleshooting and communication skills.\n- Candidates holding network certifications (e.g. CCNA, CCNP) will be strongly preferred.\n- Candidates with proven experience in the AI/ML GPU networking environment will be highly considered.\n\nMeeting every qualification is not required—if you're excited about this role, we'd love to hear from you. We believe diverse perspectives and experiences strengthen our team.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT Services and IT Consulting, IT System Testing and Evaluation, and IT System Training and Support"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4402238490",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Sr Technical Account Manager (TAM)",
+      "titleZh": "Sr Technical Account Manager (TAM)",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-04-15",
+      "postedRelative": "53 minutes ago",
+      "url": "https://www.linkedin.com/jobs/view/sr-technical-account-manager-tam-at-gmi-cloud-4402238490?position=32&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=P0OxCV0Q62XyDznA1rGd6w%3D%3D",
+      "jdEn": "About US\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation . We operate 8 of our own GPU clusters across the U.S. and Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments. We empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\n\n\nAbout this role\n\nWe're seeking a Sr Technical Account Manager (TAM) with a strong customer-first approach, technical expertise, and a passion for solving complex challenges. You will play a critical role in ensuring customers have an outstanding experience with GPU Cloud by addressing their needs proactively, resolving technical challenges promptly, and advocating for their success. If you thrive in fast-paced environments, excel in building strong customer relationships, and are driven to deliver exceptional service, we'd love to hear from you.\n\nKey Responsibilities\n\nBuilding Strong Customer Relationships\n\n• Serve as the primary technical contact for customers, addressing inquiries and issues promptly and effectively.\n\n• Advocate for customers within GMI Cloud, ensuring their needs influence product roadmaps and service enhancements.\n\n• Conduct workshops, training sessions, and tailored consultations to help customers maximize GPU Cloud utilization.\n\nProactive Problem-Solving & Technical Guidance\n\n• Monitor customer environments to identify potential risks and performance bottlenecks, implementing preventative measures.\n\n• Guide customers in designing and optimizing GPU-based system architectures, ensuring performance, scalability, and stability.\n\n• Support cloud migrations by leveraging expertise in high-performance computing, AI/ML workloads, and data processing.\n\nCloud Optimization & Operational Excellence\n\n• Conduct operational reviews to assess resource utilization, performance improvements, and cost optimization opportunities.\n\n• Collaborate with customers to enhance business continuity, disaster recovery, and system monitoring capabilities.\n\n• Drive continuous improvements, empowering customers to independently maintain and scale their cloud environments.\n\nRequired Skills\n\n- AI Infrastructure: Understanding of GPU servers, storage (Ceph, NVMe, NFS), and high-speed networking (InfiniBand, RoCE).\n- Kubernetes (K8s): Understanding of container orchestration, scheduling, and networking.\n- AI/LLM: Familiarity with large language model training and inference workflows.\n- Frameworks: Working knowledge of SGLang, vLLM, Slurm, and Ray (Anyscale) or equivalent distributed computing tools.\n- Communication: Clear and confident in technical discussions with customers and internal teams.\n\nPreferred Qualifications\n\n- Certified Kubernetes Administrator (CKA) certification is preferred.\n- Hands-on experience in HPC, MLOps, or large-scale AI infrastructure environments.\n- Experience managing or scaling Ray clusters for distributed inference or data processing.\n- Bachelor's or Master's degree in Computer Science, Engineering, or related technical field.\n- Prior experience supporting enterprise or hyperscale AI workloads is a plus.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Customer Service",
+        "Industries": "Technology, Information and Media and Computer Hardware Manufacturing"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4387245327",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Infra Engineer - SRE（Kubernetes）",
+      "titleZh": "Infra Engineer - SRE（Kubernetes）",
+      "company": "GMI Cloud",
+      "location": "United States",
+      "locationZh": "United States",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/infra-engineer-sre%EF%BC%88kubernetes%EF%BC%89-at-gmi-cloud-4387245327?position=33&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=QBmT6Y9zma9nu%2FDeUgLCIA%3D%3D",
+      "jdEn": "About GMI\n\nWe are a fast-growing AI infrastructure startup based in Silicon Valley, working on cutting-edge technologies that power the future of artificial intelligence.We power developers, startups, and enterprises with scalable GPU cloud and inference solutions, helping AI builders turn ideas into reality. As we expand globally, we are looking for a dynamic and hands-on Site Reliability Engineer\n\nRole Overview\n\nWe are seeking a skilled Site Reliability Engineer in the area of Kubernetes to join the GMI Global Infrastructure team. This role is hands-on and critical to ensuring the stability, efficiency, and reliability of the large-scale high performance AI/ML clusters in our data center. The ideal candidate will bring expertise in system-level troubleshooting, AI cluster maintenance, and operational excellence to ensure maximum performance for our infrastructure. Experience with large-scale infrastructure automation is considered a strong plus.\n\nResponsibilities\n\n- Design, implement and maintain scalable AI/ML infrastructure solutions.\n- Proactively monitor GPU cluster health, performance and troubleshoot issues across compute, accelerator, and storage systems.\n- Automate deployment, configuration and management of infrastructure resources.\n- Manage GPU node lifecycle workflows, including provisioning, scaling, maintenance, decommissioning and upgrades of GPU nodes.\n- Implement CI/CD pipelines for infrastructure deployment and orchestration.\n- Ensure security, compliance and best practices across infrastructure.\n- Manage incident response related to Infrastructure resources (GPU, CPU, Storage, Network).\n- Handle customer provisioning requests for GPU resources, including onboarding, configuration and troubleshooting; resolve customer service requests related to GPU infrastructure, ensuring high customer satisfaction.\n- Stay current with emerging GPU hardware and software technologies, integrating improvements as appropriate.\n- Regional/international travel to GMI data center locations.\n\nQualifications\n\n- Bachelor's degree in Computer Science or related field.\n- Over 3+ years of experience in data center operations, infrastructure, or systems engineering.\n- Proven experience in site reliability engineering and infrastructure automation (e.g. Ansible, Terraform)\n- Familiarity with containers orchestration platform (e.g. Kubernetes, Nvidia GPU operator, Nvidia Network operator, CNI, CSI) and job scheduling systems (e.g. Slurm).\n- Familiarity with Linux system administration and scripting (Python, Bash).\n- Familiarity with logging and monitoring tools such as Prometheus, Grafana, Loki.\n- Good knowledge of GPU architecture, Nvidia CUDA, NCCL, or related AI/ML frameworks - added advantage.\n- Strong troubleshooting skills and ability to analyze system logs and performance metrics.\n- Excellent communication and teamwork abilities.\n\nMeeting every qualification is not required—if you're excited about this role, we'd love to hear from you. We believe diverse perspectives and experiences strengthen our team.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "Software Development, Technology, Information and Media, and IT System Operations and Maintenance"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4384331631",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Solutions Architect",
+      "titleZh": "Solutions Architect",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-gmi-cloud-4384331631?position=34&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=P6boUbtz40kvB7BNW4kvjA%3D%3D",
+      "jdEn": "Location: Bay area (frequent customer interaction)\n\nTeam: Inference & Reinforcement Learning Platform\n\nAbout the Role\n\nWe're looking for a Solutions Architect to work directly with customers and partners to design, deploy, and validate inference and reinforcement learning (RL) proof-of-concepts on GMI's GPU infrastructure.\n\nThis is a high-impact, hybrid engineering role that sits at the intersection of platform engineering, applied ML, and customer success. You'll be embedded with customers during early-stage deployments—turning research ideas, datasets, and business requirements into working, performant systems on real GPU clusters.\n\nIf you enjoy being close to users, debugging real systems, and shipping results fast (not just writing docs), this role is for you.\n\nWhat You'll Do\n\nOwn customer POCs end-to-end\n\n- Deploy and optimize LLM inference, RL training, and post-training workflows on GMI clusters\n- Translate customer requirements into concrete system designs and experiments\n\nForward-deploy with customers\n\n- Work hands-on with research teams, startups, and enterprise customers\n- Debug performance, stability, and correctness issues in real environments\n\nInference deployment\n\n- Stand up and tune inference stacks (e.g. vLLM / SGLang / Ray Serve–style architectures)\n- Optimize latency, throughput, GPU utilization, and cost efficiency\n\nRL & post-training POCs\n\n- Support RLHF / RFT / SFT workflows using customer-provided datasets\n- Integrate SDKs, training APIs, and cluster resources to shorten \"idea → experiment\" cycles\n\nPerformance & reliability\n\n- Diagnose GPU, networking, and distributed system bottlenecks\n- Run benchmarks, profiling, and stress tests on multi-GPU / multi-node setups\n\nFeedback loop to product\n\n- Feed real-world customer learnings back into GMI's platform, SDKs, and APIs\n- Help shape reference architectures, cookbooks, and best practices\n\nWhat We're Looking For\n\nCore Requirements\n\n- Strong software engineering background (Python required; Go / Rust a plus)\n- Hands-on experience with ML inference or training systems\n- Familiarity with distributed systems and GPUs (multi-GPU, multi-node)\n- Comfort working directly with customers and ambiguous requirements\n- Ability to debug end-to-end systems (code, infra, networking, performance)\n\nNice to Have\n\n- Experience with:\n- LLM inference frameworks (vLLM, SGLang, Ray Serve, Triton, etc.)\n- RL or post-training workflows (RLHF, RFT, SFT)\n- PyTorch, DeepSpeed, Megatron-LM, or similar\n- Kubernetes-based ML platforms\n- GPU performance profiling and optimization\n- Prior experience as:\n- Forward Deployed Engineer\n- Solutions Engineer\n- ML Platform Engineer\n- Applied Research Engineer\n\nWhat Makes This Role Special\n\n- You're close to real users and real GPUs—not abstract roadmaps\n- You'll work on cutting-edge inference and RL workloads, not toy demos\n- You'll influence product direction through direct customer feedback\n- Fast iteration, high ownership, and visible impact\n\nWho Thrives Here\n\n- Engineers who like shipping over theorizing\n- People who enjoy being the \"last mile\" problem solver\n- Builders who want exposure to both deep systems and applied ML\n- Those excited by early-stage POCs that turn into real production systems",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT Services and IT Consulting, Software Development, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4394339659",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Forward Deployment Engineer (Inference & RL POC)",
+      "titleZh": "Forward Deployment Engineer (Inference & RL POC)",
+      "company": "GMI Cloud",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "locationZh": "Neihu District, Taipei City, Taiwan",
+      "postedDate": "2026-04-01",
+      "postedRelative": "2 weeks ago",
+      "url": "https://tw.linkedin.com/jobs/view/forward-deployment-engineer-inference-rl-poc-at-gmi-cloud-4394339659?position=35&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=xqBPj%2FCbB5c7ApY2d%2B4fvQ%3D%3D",
+      "jdEn": "Location: Bay area (frequent customer interaction)\n\nTeam: Inference & Reinforcement Learning Platform\n\n\n\nAbout the Role\n\nWe're looking for a Forward Deployment Engineer (FDE) to work directly with customers and partners to design, deploy, and validate inference and reinforcement learning (RL) proof-of-concepts on GMI's GPU infrastructure.\n\nThis is a high-impact, hybrid engineering role that sits at the intersection of platform engineering, applied ML, and customer success. You'll be embedded with customers during early-stage deployments—turning research ideas, datasets, and business requirements into working, performant systems on real GPU clusters.\n\nIf you enjoy being close to users, debugging real systems, and shipping results fast (not just writing docs), this role is for you.\n\nWhat You'll Do\n\nOwn customer POCs end-to-end\n\n- Deploy and optimize LLM inference, RL training, and post-training workflows on GMI clusters\n- Translate customer requirements into concrete system designs and experiments\n\nForward-deploy with customers\n\n- Work hands-on with research teams, startups, and enterprise customers\n- Debug performance, stability, and correctness issues in real environments\n\nInference deployment\n\n- Stand up and tune inference stacks (e.g. vLLM / SGLang / Ray Serve–style architectures)\n- Optimize latency, throughput, GPU utilization, and cost efficiency\n\nRL & post-training POCs\n\n- Support RLHF / RFT / SFT workflows using customer-provided datasets\n- Integrate SDKs, training APIs, and cluster resources to shorten \"idea → experiment\" cycles\n\nPerformance & reliability\n\n- Diagnose GPU, networking, and distributed system bottlenecks\n- Run benchmarks, profiling, and stress tests on multi-GPU / multi-node setups\n\nFeedback loop to product\n\n- Feed real-world customer learnings back into GMI's platform, SDKs, and APIs\n- Help shape reference architectures, cookbooks, and best practices\n\nWhat We're Looking For\n\nCore Requirements\n\n- Strong software engineering background (Python required; Go / Rust a plus)\n- Hands-on experience with ML inference or training systems\n- Familiarity with distributed systems and GPUs (multi-GPU, multi-node)\n- Comfort working directly with customers and ambiguous requirements\n- Ability to debug end-to-end systems (code, infra, networking, performance)\n\nNice to Have\n\n- Experience with:\n- LLM inference frameworks (vLLM, SGLang, Ray Serve, Triton, etc.)\n- RL or post-training workflows (RLHF, RFT, SFT)\n- PyTorch, DeepSpeed, Megatron-LM, or similar\n- Kubernetes-based ML platforms\n- GPU performance profiling and optimization\n- Prior experience as:\n- Forward Deployed Engineer\n- Solutions Engineer\n- ML Platform Engineer\n- Applied Research Engineer\n\nWhat Makes This Role Special\n\n- You're close to real users and real GPUs—not abstract roadmaps\n- You'll work on cutting-edge inference and RL workloads, not toy demos\n- You'll influence product direction through direct customer feedback\n- Fast iteration, high ownership, and visible impact\n\nWho Thrives Here\n\n- Engineers who like shipping over theorizing\n- People who enjoy being the \"last mile\" problem solver\n- Builders who want exposure to both deep systems and applied ML\n- Those excited by early-stage POCs that turn into real production systems",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Associate",
+        "Employment type": "Full-time",
+        "Job function": "Engineering",
+        "Industries": "IT Services and IT Consulting, Software Development, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4393521196",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "BD Manager, Inference Engine",
+      "titleZh": "BD Manager, Inference Engine",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/bd-manager-inference-engine-at-gmi-cloud-4393521196?position=36&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=nqOyvYeFnWvfqeLePesiKw%3D%3D",
+      "jdEn": "About the Role\n\nWe're looking for a BD manager to drive the identification, execution, and commercialization of customer POC for our AI infrastructure platform. You'll work closely with customers and internal engineering teams to turn early technical evaluations into long-term commercial partnerships. If you enjoy owning complex, high-impact initiatives end to end—and translating technical success into real business outcomes—this role is for you.\n\nWhat You'll Do\n\nOwn and Drive Customer POCs\n\n- Identify, qualify, and source high-potential customer POCs aligned with strategic priorities\n- Own multiple concurrent POCs from initial scoping through final evaluation\n- Partner directly with customers to understand technical needs, use cases, and success criteria\n\nExecute and Deliver Technical Evaluations\n\n- Define POC scope, milestones, timelines, and success metrics with customers\n- Coordinate closely with Engineering to support setup, testing, and validation\n- Act as the primary point of contact throughout the POC lifecycle\n- Ensure high-quality delivery, proactive issue resolution, and clear stakeholder communication\n\nCross-Functional Collaboration\n\n- Work cross-functionally with Engineering, Product, and Operations teams to align customer requirements with internal capabilities\n- Drive execution internally and unblock dependencies to keep POCs on track\n\nConvert Technical Wins into Revenue\n\n- Lead the transition from successful POCs to commercial agreements\n- Support pricing discussions, contract progression, and onboarding customers into production usage\n- Build trusted relationships that lead to long-term partnerships\n\nWhat We're Looking For\n\n- Bachelor's degree or higher in Engineering, Computer Science, or a related technical field\n- 3–5+ years of experience in technical business development, customer engineering, technical account management, or similar roles\n- Strong technical acumen with the ability to discuss AI infrastructure concepts and workflows with both technical and non-technical stakeholders\n- Proven ownership mindset—comfortable managing multiple workstreams in parallel and driving outcomes\n- Excellent communication and stakeholder management skills\n- Based in (or willing to relocate to) Mountain View, CA for full-time, in-office collaboration\n\nWhy Join Us\n\n- Work at the forefront of AI infrastructure and next-generation computing\n- Own highly visible customer initiatives with real commercial impact\n- Collaborate with a world-class engineering and product team\n- Shape how cutting-edge AI infrastructure is brought from prototype to production",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Business Development",
+        "Industries": "Technology, Information and Media and Software Development"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4341780129",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Solution Architect – AI / GPU Cloud",
+      "titleZh": "Senior Solution Architect – AI / GPU Cloud",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/senior-solution-architect-%E2%80%93-ai-gpu-cloud-at-gmi-cloud-4341780129?position=37&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=zyxhjToS5ocv3kDgQWe%2BAQ%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe are operating hundreds of megawatts of AI-ready data center capacity across North America and a growing AI Factory footprint in Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA six global Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments.\n\nWe empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nRole Overview\n\nAs a Solution Architect, you will be the primary technical interface for our enterprise and hyperscaler accounts.\n\nYou will design GPU-cloud and AI infrastructure solutions, lead PoCs and benchmarks, guide customers through deployment, and partner closely with internal engineering, infra, and operations teams to ensure successful delivery.\n\nThis role is ideal for someone who understands large-scale AI/ML/HPC workloads, enjoys working directly with customers, and wants to shape the future of AI infrastructure.\n\nKey Responsibilities\n\nCustomer Engagement & Technical Leadership\n\n- Serve as the primary technical point-of-contact for enterprise and hyperscaler customers.\n- Deeply understand customer AI/ML/HPC workloads, scaling requirements, and deployment models.\n- Architect GPU clusters, storage, networking, and orchestration solutions tailored to customer needs.\n\nSolution Design & PoC Execution\n\n- Lead Proof-of-Concepts, benchmarks, and workshops demonstrating performance, reliability, and scalability.\n- Produce technical proposals, architecture diagrams, capacity plans, and cost/performance recommendations\n- Translate complex technical issues into clear actions for both engineering and business stakeholders.\n\nDeployment & Enablement\n\n- Guide customers through onboarding, cluster setup, performance tuning, and scaling.\n- Partner with internal Infra, DC Ops, and Engineering teams to ensure smooth delivery and implementation.\n- Identify optimization opportunities in customer workloads (GPU utilization, networking, scheduling, cost).\n\nOngoing Support & Relationship Building\n\n- Act as a trusted advisor on GPU/AI infrastructure best practices, roadmap, and long-term planning.\n- Maintain regular technical check-ins, capacity reviews, and performance reviews with customers.\n- Gather customer feedback and collaborate with product/engineering to improve our platform.\n\nRequired Qualifications\n\nTechnical Background\n\n- 5–10+ years in cloud infrastructure, GPU cloud, HPC, AI/ML infrastructure, or data center engineering.\n- Strong understanding of:\n- Distributed training & inference architectures\n- Kubernetes, Slurm, or other cluster/orchestration systems\n- NVIDIA GPU stack (H100/H200/B200/GB200 or similar)\n- InfiniBand / high-speed networking\n- Storage architectures for AI workloads\n\nCustomer-Facing Skills\n\n- Experience working directly with enterprise or hyperscaler technical teams.\n- Ability to simplify complex infra concepts for both technical and non-technical audiences.\n- Strong communication, solution-design, and project coordination skills.\n\nSoft Skills\n\n- Self-starter, ownership mindset, excellent follow-through.\n- Comfortable working in a fast-moving, high-growth environment.\n- Strong problem-solving and \"architect + advisor\" mentality.\n\nPreferred Qualifications (Nice to Have)\n\n- Hands-on with large-scale GPU deployments (multi-node, multi-cluster).\n- Exposure to hyperscaler capacity planning or AI infrastructure procurement teams.\n- Experience with multi-region or global GPU deployments (US + APAC/Taiwan).\n\nWhy Join GMI Cloud\n\n- Work directly with some of the world's most advanced AI organizations.\n- Architect and deliver multi-MW GPU clusters at global scale.\n- Influence product roadmap and partner closely with NVIDIA and top-tier data center providers.\n- High-impact role with significant ownership and career growth.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Mid-Senior level",
+        "Employment type": "Full-time",
+        "Job function": "Sales",
+        "Industries": "IT System Data Services, IT System Operations and Maintenance, and Technology, Information and Media"
+      },
+      "criteriaZh": {}
+    },
+    {
+      "id": "4341269950",
+      "region": "overseas",
+      "source": "LinkedIn overseas",
+      "title": "Senior Account Director – Hyperscalers (AI Infrastructure)",
+      "titleZh": "Senior Account Director – Hyperscalers (AI Infrastructure)",
+      "company": "GMI Cloud",
+      "location": "Mountain View, CA",
+      "locationZh": "Mountain View, CA",
+      "postedDate": "2026-03-31",
+      "postedRelative": "2 weeks ago",
+      "url": "https://www.linkedin.com/jobs/view/senior-account-director-%E2%80%93-hyperscalers-ai-infrastructure-at-gmi-cloud-4341269950?position=38&pageNum=0&refId=vXJVdGOrn%2FrtNP2H%2Bu9ZIQ%3D%3D&trackingId=3%2FN%2FuFj7g7Pns6jpyGYAIw%3D%3D",
+      "jdEn": "About GMI Cloud\n\nGMI Cloud is a fast-growing AI infrastructure company backed by Headline VC and one of only six cloud providers worldwide to earn NVIDIA's prestigious Reference Platform Cloud Partner designation .\n\nWe are operating hundreds of megawatts of AI-ready data center capacity across North America and a growing AI Factory footprint in Asia, delivering a full spectrum of services from GPU compute service to AI model inference API solutions. As an NVIDIA six global Reference Platform Cloud Partner, our infrastructure meets the highest standards for performance, security, and scalability in AI deployments.\n\nWe empower AI startups and enterprises to \"build AI without limits,\" providing everything they need to prototype, train, and deploy AI models quickly and reliably.\n\nRole Overview\n\nThe Senior Account Director – Hyperscalers owns GMI Cloud's relationships with:\n\n- Microsoft Azure AI Infrastructure\n- Google Global DC / 3rd-Party DC Ops\n- Meta Data Center Strategy & Planning\n- Anthropic Infrastructure & Capacity Delivery\n- Oracle Cloud Infrastructure (OCI) DC Planning\n- OpenAI Compute Infrastructure Strategy and other hyperscaler AI infrastructure teams.\n\nYour mission is to drive multi-year, multi-MW, take-or-pay capacity agreements, enabling those organizations to scale AI compute with GMI's GPU cloud and data center platform. This is a highly strategic role requiring deep industry knowledge, credibility, and a proven ability to work with Director–VP level infrastructure leaders.\n\nWhat You Will Do\n\n1. Build and own relationships with hyperscaler infrastructure decision-makers\n\n- Engage Director/VP-level leaders in AI infra, DC planning, capacity engineering, and compute procurement.\n- Serve as a trusted partner on AI infrastructure scaling, budget cycles, and long-term planning.\n\n2. Drive multi-year strategic GPU capacity deals\n\n- Structure and negotiate multi-MW GPU cluster contracts across H200, B200, B300, GB200, GB300.\n- Lead offer design: capacity reservations, take-or-pay agreements, global region planning.\n\n3. Navigate hyperscaler procurement and internal workflows\n\n- Understand vendor onboarding, RFP/RFQ cycles, security reviews, compliance, and infra governance.\n- Work closely with engineering, infra ops, DC build teams, and finance stakeholders on the customer side.\n\n4. Partner internally with GMI SA / Infra / Ops / DC teams\n\n- Align customer requirements with GMI's global capacity roadmap.\n- Coordinate technical validation, POC, readiness checks, and deployment schedules.\n- Ensure smooth execution from contracting to delivery.\n\n5. Drive account growth and long-term partnerships\n\n- Develop joint roadmaps with hyperscalers for future MW expansion.\n- Build multi-region execution plans across US West, Central, East and APAC/TW AI factories.\n- Own quarterly business reviews, strategic planning, and long-term renewals.\n\nWhat We're Looking For\n\nExperience & Track Record\n\n- 10+ years in AI cloud, hyperscale infrastructure, data center, HPC, or GPU cloud industries.\n- Proven success closing large-scale infrastructure or multi-year capacity deals.\n- Existing relationships or prior work with hyperscaler DC / infra teams is a major plus.\n\nIndustry Background (ideal pools)\n\nExperience at one or more of the following:\n\n- GPU Cloud / AI Compute\n- Energy-to-AI & DC Operators\n- Global DC & Colo Providers\n\nTechnical & Business Skills\n\n- Strong understanding of AI compute, GPU roadmaps, cluster architecture, IB/RoCE networks, and DC power/cooling fundamentals.\n- Familiar with hyperscaler capacity planning, multi-year budgeting, procurement, vendor management, and infra governance models.\n- Ability to translate complex technical requirements into clear commercial agreements.\n\nSoft Skills\n\n- Executive communication at Director–VP level.\n- Ability to influence cross-functional stakeholders across engineering, infra ops, DC, and finance.\n- High integrity, low-ego, strategic, relationship-driven mindset.\n\nSuccess Metrics\n\n- MW of contracted GPU capacity (take-or-pay / reserved capacity).\n- Multi-year revenue from hyperscaler portfolio.\n- Region coverage and expansion (US + APAC/TW).\n- Deal velocity and execution quality.\n- Strategic depth of customer partnership.\n\nLocation & Travel\n\n- Bay Area based (preferred).\n- ~10% travel to customer sites, DC partners, and industry events.",
+      "jdZh": "",
+      "criteria": {
+        "Seniority level": "Director",
+        "Employment type": "Full-time",
+        "Job function": "Sales",
+        "Industries": "Technology, Information and Media, IT System Operations and Maintenance, and IT System Data Services"
+      },
+      "criteriaZh": {}
+    }
+  ],
+  "chinaJobs": []
+};

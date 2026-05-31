@@ -130,6 +130,10 @@ button {
   flex-wrap: wrap;
 }
 
+.drawer-actions [hidden] {
+  display: none !important;
+}
+
 .icon-btn,
 .primary-btn,
 .ghost-btn,
@@ -234,7 +238,7 @@ h1 {
   font-size: clamp(68px, 8.6vw, 118px);
   line-height: 0.9;
   letter-spacing: -0.015em;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .lead {
@@ -252,7 +256,9 @@ h1 {
 .hero-metrics div,
 .job-card,
 .control-band,
-.referral-cta {
+.referral-cta,
+.listing-intake,
+.listing-option {
   border: 1px solid var(--line);
   background: var(--panel);
   box-shadow: var(--shadow);
@@ -323,6 +329,7 @@ h1 {
 }
 
 .board-head h2,
+.listing-copy h2,
 .referral-cta h2 {
   margin-bottom: 0;
   font-family: "Barlow Condensed", "Noto Sans SC", sans-serif;
@@ -423,6 +430,53 @@ h1 {
   gap: 24px;
   margin-top: 52px;
   padding: 28px;
+}
+
+.listing-intake {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(360px, 1fr);
+  gap: 24px;
+  margin-top: 52px;
+  padding: 28px;
+}
+
+.listing-copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.listing-copy p:not(.eyebrow) {
+  max-width: 560px;
+  margin: 14px 0 22px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.listing-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.listing-option {
+  padding: 16px;
+  background: rgba(6, 10, 15, 0.52);
+  box-shadow: none;
+}
+
+.listing-option strong {
+  display: block;
+  color: var(--green);
+  font-family: "Space Grotesk", "Noto Sans SC", sans-serif;
+  font-size: 15px;
+}
+
+.listing-option p {
+  margin: 10px 0 0;
+  color: #c7d6d9;
+  font-size: 14px;
+  line-height: 1.55;
 }
 
 .referral-cta p:not(.eyebrow) {
@@ -572,10 +626,16 @@ h1 {
   }
 
   .board-head,
+  .listing-intake,
   .referral-cta,
   .topbar {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .listing-intake,
+  .listing-options {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -601,6 +661,7 @@ h1 {
   }
 
   .board-head h2,
+  .listing-copy h2,
   .referral-cta h2,
   .drawer-panel h2 {
     font-size: 42px;

@@ -3,15 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI Infra 内推岗位 | Referral Board</title>
-    <meta name="description" content="AI Infrastructure referral board with China mainland, Hong Kong, Taiwan, and overseas roles. Open roles for personal referrals." />
-    <meta property="og:title" content="AI Infra 内推岗位 | Referral Board" />
-    <meta property="og:description" content="中国大陆、中国香港、中国台湾与海外 AI Infrastructure 岗位内推，可按岗位、城市和职能筛选。" />
+    <title>AI Infra 内推 | Referral Board</title>
+    <meta name="description" content="AI Infrastructure referral aggregator with China mainland, Hong Kong, Taiwan, and overseas roles. Mainland China roles hide company details; other regions show company details." />
+    <meta property="og:title" content="AI Infra 内推 | Referral Board" />
+    <meta property="og:description" content="AI Infrastructure 岗位内推，覆盖 GPU Cloud、模型服务、数据中心网络和 MLOps 等方向。" />
     <meta property="og:type" content="website" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Noto+Sans+SC:wght@400;500;700;900&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="./styles.css?v=20260528-title3" />
+    <link rel="stylesheet" href="./styles.css?v=20260531-aggregator" />
   </head>
   <body>
     <canvas id="signalCanvas" aria-hidden="true"></canvas>
@@ -24,7 +24,7 @@
         <nav class="nav-actions" aria-label="Page actions">
           <button class="icon-btn active" type="button" data-lang="zh">中</button>
           <button class="icon-btn" type="button" data-lang="en">EN</button>
-          <a class="ghost-btn" data-i18n="linkedinCta" href="https://www.linkedin.com/company/gmi-cloud-ai/" target="_blank" rel="noreferrer">公司动态</a>
+          <a class="ghost-btn" data-i18n="listRoleCta" data-list-role-link href="#">上架岗位</a>
           <a class="ghost-btn email-link" data-i18n="contactCta" data-contact-link href="#">联系内推</a>
         </nav>
       </header>
@@ -32,9 +32,9 @@
       <main id="top">
         <section class="hero">
           <div class="hero-copy">
-            <p class="eyebrow" data-i18n="eyebrow">内推通道 · GPU Cloud / AI Infra</p>
+            <p class="eyebrow" data-i18n="eyebrow">聚合内推通道 · GPU Cloud / AI Infra</p>
             <h1 data-i18n="headline">AI Infra 内推</h1>
-            <p class="lead" data-i18n="lead">AI 基础设施岗位开放中。按区域和职能找到目标岗位后，直接邮件发送简历。</p>
+            <p class="lead" data-i18n="lead">聚合 AI 基础设施岗位内推，找到合适机会后可直接邮件发送简历，我会协助确认匹配度并推进内推。</p>
           </div>
           <div class="hero-metrics" aria-label="Hiring summary">
             <div>
@@ -42,8 +42,8 @@
               <span data-i18n="metricJobs">岗位总数</span>
             </div>
             <div>
-              <strong>AI</strong>
-              <span data-i18n="metricTrack">Infra 赛道</span>
+              <strong id="regionCount">4</strong>
+              <span data-i18n="metricTrack">地区覆盖</span>
             </div>
           </div>
         </section>
@@ -72,12 +72,22 @@
           <div>
             <p class="eyebrow" data-i18n="ctaEyebrow">Referral Signal</p>
             <h2 data-i18n="ctaTitle">已有目标岗位？</h2>
-            <p data-i18n="ctaCopy">打开对应岗位详情，点击“邮件投递”即可带上岗位标题发送简历。请在邮件正文附上目标岗位、所在城市、可入职时间和简历。</p>
+            <p data-i18n="ctaCopy">打开对应岗位详情，点击“邮件投递”即可带上岗位标题发送简历。大陆岗位公司详情不在公开页面展示，可联系我进一步了解。</p>
             <a class="inline-email" data-i18n="contactCta" data-contact-link href="#">联系内推</a>
           </div>
           <div class="cta-actions">
             <a class="primary-btn large" id="emailPitchBottom" href="#">发邮件咨询</a>
           </div>
+        </section>
+
+        <section class="listing-intake" id="list-role">
+          <div class="listing-copy">
+            <p class="eyebrow" data-i18n="intakeEyebrow">For AI Infra Companies</p>
+            <h2 data-i18n="intakeTitle">提交更多AI Infra岗位</h2>
+            <p data-i18n="intakeCopy">欢迎提交GPU Cloud、模型服务、数据中心网络、MLOps、GTM 等相关岗位。</p>
+            <a class="primary-btn large" data-i18n="listRoleCta" data-list-role-link href="#">上架岗位</a>
+          </div>
+          <div class="listing-options" id="listingOptions"></div>
         </section>
       </main>
     </div>
